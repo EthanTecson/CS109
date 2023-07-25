@@ -1,0 +1,30 @@
+""" This program is the bare bones of a "turtle graphic" program.
+
+    Author/copyright: Duncan A. Buell.  All rights reserved.
+    Used with permission and modified by: Jane Random Hacker
+    Date: 29 August 2022
+"""
+import sys
+import turtle
+
+#123456789 123456789 123456789 123456789 123456789 123456789 123456789
+
+######################################################################
+george = turtle.Turtle()
+print(george.position())
+george.pencolor('green')
+#george.fillcolor('blue')
+#george.begin_fill()
+george.forward(100.0)
+george.right(72.0)
+george.forward(100.0)
+george.right(72.0)
+george.forward(100.0)
+george.right(72.0)
+george.forward(100.0)
+george.right(72.0)
+george.forward(100.0)
+george.fillcolor('red')
+#george.end_fill()
+#screen =george.getscreen()
+#screen.exitonclick()

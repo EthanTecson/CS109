@@ -1,0 +1,13 @@
+prefix=/Users/ethantecson/Documents/Computer Science/Programs for class/program 0 
+exec_prefix=/Users/ethantecson/Documents/Computer Science/Programs for class/program 0 
+libdir=/Users/ethantecson/Documents/Computer Science/Programs for class/program 0 /lib
+sharedlibdir=/Users/ethantecson/Documents/Computer Science/Programs for class/program 0 /lib
+includedir=/Users/ethantecson/Documents/Computer Science/Programs for class/program 0 /include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.12
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

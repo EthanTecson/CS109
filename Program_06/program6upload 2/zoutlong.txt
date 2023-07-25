@@ -1,0 +1,2706 @@
+Enter filename: Read from file  ca01.txt
+['The/at', 'Fulton/np-tl', 'County/nn-tl', 'Grand/jj-tl', 'Jury/nn-tl', 'said/vbd', 'Friday/nr', 'an/at', 'investigation/nn', 'of/in', "Atlanta's/np$", 'recent/jj', 'primary/nn', 'election/nn', 'produced/vbd', '``/``', 'no/at', 'evidence/nn', "''/''", 'that/cs', 'any/dti', 'irregularities/nns', 'took/vbd', 'place/nn', './.', 'The/at', 'jury/nn', 'further/rbr', 'said/vbd', 'in/in', 'term-end/nn', 'presentments/nns', 'that/cs', 'the/at', 'City/nn-tl', 'Executive/jj-tl', 'Committee/nn-tl', ',/,', 'which/wdt', 'had/hvd', 'over-all/jj', 'charge/nn', 'of/in', 'the/at', 'election/nn', ',/,', '``/``', 'deserves/vbz', 'the/at', 'praise/nn', 'and/cc', 'thanks/nns', 'of/in', 'the/at', 'City/nn-tl', 'of/in-tl', 'Atlanta/np-tl', "''/''", 'for/in', 'the/at', 'manner/nn', 'in/in', 'which/wdt', 'the/at', 'election/nn', 'was/bedz', 'conducted/vbn', './.', 'The/at', 'September-October/np', 'term/nn', 'jury/nn', 'had/hvd', 'been/ben', 'charged/vbn', 'by/in', 'Fulton/np-tl', 'Superior/jj-tl', 'Court/nn-tl', 'Judge/nn-tl', 'Durwood/np', 'Pye/np', 'to/to', 'investigate/vb', 'reports/nns', 'of/in', 'possible/jj', '``/``', 'irregularities/nns', "''/''", 'in/in', 'the/at', 'hard-fought/jj', 'primary/nn', 'which/wdt', 'was/bedz', 'won/vbn', 'by/in', 'Mayor-nominate/nn-tl', 'Ivan/np', 'Allen/np', 'Jr./np', './.', '``/``', 'Only/rb', 'a/at', 'relative/jj', 'handful/nn', 'of/in', 'such/jj', 'reports/nns', 'was/bedz', 'received/vbn', "''/''", ',/,', 'the/at', 'jury/nn', 'said/vbd', ',/,', '``/``', 'considering/in', 'the/at', 'widespread/jj', 'interest/nn', 'in/in', 'the/at', 'election/nn', ',/,', 'the/at', 'number/nn', 'of/in', 'voters/nns', 'and/cc', 'the/at', 'size/nn', 'of/in', 'this/dt', 'city/nn', "''/''", './.', 'The/at', 'jury/nn', 'said/vbd', 'it/pps', 'did/dod', 'find/vb', 'that/cs', 'many/ap', 'of/in', "Georgia's/np$", 'registration/nn', 'and/cc', 'election/nn', 'laws/nns', '``/``', 'are/ber', 'outmoded/jj', 'or/cc', 'inadequate/jj', 'and/cc', 'often/rb', 'ambiguous/jj', "''/''", './.', 'It/pps', 'recommended/vbd', 'that/cs', 'Fulton/np', 'legislators/nns', 'act/vb', '``/``', 'to/to', 'have/hv', 'these/dts', 'laws/nns', 'studied/vbn', 'and/cc', 'revised/vbn', 'to/in', 'the/at', 'end/nn', 'of/in', 'modernizing/vbg', 'and/cc', 'improving/vbg', 'them/ppo', "''/''", './.', 'The/at', 'grand/jj', 'jury/nn', 'commented/vbd', 'on/in', 'a/at', 'number/nn', 'of/in', 'other/ap', 'topics/nns', ',/,', 'among/in', 'them/ppo', 'the/at', 'Atlanta/np', 'and/cc', 'Fulton/np-tl', 'County/nn-tl', 'purchasing/vbg', 'departments/nns', 'which/wdt', 'it/pps', 'said/vbd', '``/``', 'are/ber', 'well/ql', 'operated/vbn', 'and/cc', 'follow/vb', 'generally/rb', 'accepted/vbn', 'practices/nns', 'which/wdt', 'inure/vb', 'to/in', 'the/at', 'best/jjt', 'interest/nn', 'of/in', 'both/abx', 'governments/nns', "''/''", './.', 'Merger/nn-hl', 'proposed/vbn-hl', 'However/wrb', ',/,', 'the/at', 'jury/nn', 'said/vbd', 'it/pps', 'believes/vbz', '``/``', 'these/dts', 'two/cd', 'offices/nns', 'should/md', 'be/be', 'combined/vbn', 'to/to', 'achieve/vb', 'greater/jjr', 'efficiency/nn', 'and/cc', 'reduce/vb', 'the/at', 'cost/nn', 'of/in', 'administration/nn', "''/''", './.', 'The/at', 'City/nn-tl', 'Purchasing/vbg-tl', 'Department/nn-tl', ',/,', 'the/at', 'jury/nn', 'said/vbd', ',/,', '``/``', 'is/bez', 'lacking/vbg', 'in/in', 'experienced/vbn', 'clerical/jj', 'personnel/nns', 'as/cs', 'a/at', 'result/nn', 'of/in', 'city/nn', 'personnel/nns', 'policies/nns', "''/''", './.', 'It/pps', 'urged/vbd', 'that/cs', 'the/at', 'city/nn', '``/``', 'take/vb', 'steps/nns', 'to/to', 'remedy/vb', "''/''", 'this/dt', 'problem/nn', './.', 'Implementation/nn', 'of/in', "Georgia's/np$", 'automobile/nn', 'title/nn', 'law/nn', 'was/bedz', 'also/rb', 'recommended/vbn', 'by/in', 'the/at', 'outgoing/jj', 'jury/nn', './.', 'It/pps', 'urged/vbd', 'that/cs', 'the/at', 'next/ap', 'Legislature/nn-tl', '``/``', 'provide/vb', 'enabling/vbg', 'funds/nns', 'and/cc', 're-set/vb', 'the/at', 'effective/jj', 'date/nn', 'so/cs', 'that/cs', 'an/at', 'orderly/jj', 'implementation/nn', 'of/in', 'the/at', 'law/nn', 'may/md', 'be/be', 'effected/vbn', "''/''", './.', 'The/at', 'grand/jj', 'jury/nn', 'took/vbd', 'a/at', 'swipe/nn', 'at/in', 'the/at', 'State/nn-tl', 'Welfare/nn-tl', "Department's/nn$-tl", 'handling/nn', 'of/in', 'federal/jj', 'funds/nns', 'granted/vbn', 'for/in', 'child/nn', 'welfare/nn', 'services/nns', 'in/in', 'foster/jj', 'homes/nns', './.', '``/``', 'This/dt', 'is/bez', 'one/cd', 'of/in', 'the/at', 'major/jj', 'items/nns', 'in/in', 'the/at', 'Fulton/np-tl', 'County/nn-tl', 'general/jj', 'assistance/nn', 'program/nn', "''/''", ',/,', 'the/at', 'jury/nn', 'said/vbd', ',/,', 'but/cc', 'the/at', 'State/nn-tl', 'Welfare/nn-tl', 'Department/nn-tl', '``/``', 'has/hvz', 'seen/vbn', 'fit/jj', 'to/to', 'distribute/vb', 'these/dts', 'funds/nns', 'through/in', 'the/at', 'welfare/nn', 'departments/nns', 'of/in', 'all/abn', 'the/at', 'counties/nns', 'in/in', 'the/at', 'state/nn', 'with/in', 'the/at', 'exception/nn', 'of/in', 'Fulton/np-tl', 'County/nn-tl', ',/,', 'which/wdt', 'receives/vbz', 'none/pn', 'of/in', 'this/dt', 'money/nn', './.', 'The/at', 'jurors/nns', 'said/vbd', 'they/ppss', 'realize/vb', '``/``', 'a/at', 'proportionate/jj', 'distribution/nn', 'of/in', 'these/dts', 'funds/nns', 'might/md', 'disable/vb', 'this/dt', 'program/nn', 'in/in', 'our/pp$', 'less/ql', 'populous/jj', 'counties/nns', "''/''", './.', 'Nevertheless/rb', ',/,', '``/``', 'we/ppss', 'feel/vb', 'that/cs', 'in/in', 'the/at', 'future/nn', 'Fulton/np-tl', 'County/nn-tl', 'should/md', 'receive/vb', 'some/dti', 'portion/nn', 'of/in', 'these/dts', 'available/jj', 'funds/nns', "''/''", ',/,', 'the/at', 'jurors/nns', 'said/vbd', './.', '``/``', 'Failure/nn', 'to/to', 'do/do', 'this/dt', 'will/md', 'continue/vb', 'to/to', 'place/vb', 'a/at', 'disproportionate/jj', 'burden/nn', "''/''", 'on/in', 'Fulton/np', 'taxpayers/nns', './.', 'The/at', 'jury/nn', 'also/rb', 'commented/vbd', 'on/in', 'the/at', 'Fulton/np', "ordinary's/nn$", 'court/nn', 'which/wdt', 'has/hvz', 'been/ben', 'under/in', 'fire/nn', 'for/in', 'its/pp$', 'practices/nns', 'in/in', 'the/at', 'appointment/nn', 'of/in', 'appraisers/nns', ',/,', 'guardians/nns', 'and/cc', 'administrators/nns', 'and/cc', 'the/at', 'awarding/nn', 'of/in', 'fees/nns', 'and/cc', 'compensation/nn', './.', 'Wards/nns-hl', 'protected/vbn-hl', 'The/at', 'jury/nn', 'said/vbd', 'it/pps', 'found/vbd', 'the/at', 'court/nn', '``/``', 'has/hvz', 'incorporated/vbn', 'into/in', 'its/pp$', 'operating/vbg', 'procedures/nns', 'the/at', 'recommendations/nns', "''/''", 'of/in', 'two/cd', 'previous/jj', 'grand/jj', 'juries/nns', ',/,', 'the/at', 'Atlanta/np-tl', 'Bar/nn-tl', 'Association/nn-tl', 'and/cc', 'an/at', 'interim/nn', 'citizens/nns', 'committee/nn', './.', '``/``', 'These/dts', 'actions/nns', 'should/md', 'serve/vb', 'to/to', 'protect/vb', 'in/in', 'fact/nn', 'and/cc', 'in/in', 'effect/nn', 'the/at', "court's/nn$", 'wards/nns', 'from/in', 'undue/jj', 'costs/nns', 'and/cc', 'its/pp$', 'appointed/vbn', 'and/cc', 'elected/vbn', 'servants/nns', 'from/in', 'unmeritorious/jj', 'criticisms/nns', "''/''", ',/,', 'the/at', 'jury/nn', 'said/vbd', './.', 'Regarding/in', "Atlanta's/np$", 'new/jj', 'multi-million-dollar/jj', 'airport/nn', ',/,', 'the/at', 'jury/nn', 'recommended/vbd', '``/``', 'that/cs', 'when/wrb', 'the/at', 'new/jj', 'management/nn', 'takes/vbz', 'charge/nn', 'Jan./np', '1/cd', 'the/at', 'airport/nn', 'be/be', 'operated/vbn', 'in/in', 'a/at', 'manner/nn', 'that/wps', 'will/md', 'eliminate/vb', 'political/jj', 'influences/nns', "''/''", './.', 'The/at', 'jury/nn', 'did/dod', 'not/*', 'elaborate/vb', ',/,', 'but/cc', 'it/pps', 'added/vbd', 'that/cs', '``/``', 'there/ex', 'should/md', 'be/be', 'periodic/jj', 'surveillance/nn', 'of/in', 'the/at', 'pricing/vbg', 'practices/nns', 'of/in', 'the/at', 'concessionaires/nns', 'for/in', 'the/at', 'purpose/nn', 'of/in', 'keeping/vbg', 'the/at', 'prices/nns', 'reasonable/jj', "''/''", './.', 'Ask/vb-hl', 'jail/nn-hl', 'deputies/nns-hl', 'On/in', 'other/ap', 'matters/nns', ',/,', 'the/at', 'jury/nn', 'recommended/vbd', 'that/cs', ':/:', '(/(', '1/cd', ')/)', 'Four/cd', 'additional/jj', 'deputies/nns', 'be/be', 'employed/vbn', 'at/in', 'the/at', 'Fulton/np-tl', 'County/nn-tl', 'Jail/nn-tl', 'and/cc', '``/``', 'a/at', 'doctor/nn', ',/,', 'medical/jj', 'intern/nn', 'or/cc', 'extern/nn', 'be/be', 'employed/vbn', 'for/in', 'night/nn', 'and/cc', 'weekend/nn', 'duty/nn', 'at/in', 'the/at', 'jail/nn', "''/''", './.', '(/(', '2/cd', ')/)', 'Fulton/np', 'legislators/nns', '``/``', 'work/vb', 'with/in', 'city/nn', 'officials/nns', 'to/to', 'pass/vb', 'enabling/vbg', 'legislation/nn', 'that/wps', 'will/md', 'permit/vb', 'the/at', 'establishment/nn', 'of/in', 'a/at', 'fair/jj', 'and/cc', 'equitable/jj', "''/''", 'pension/nn', 'plan/nn', 'for/in', 'city/nn', 'employes/nns', './.', 'The/at', 'jury/nn', 'praised/vbd', 'the/at', 'administration/nn', 'and/cc', 'operation/nn', 'of/in', 'the/at', 'Atlanta/np-tl', 'Police/nns-tl', 'Department/nn-tl', ',/,', 'the/at', 'Fulton/np-tl', 'Tax/nn-tl', "Commissioner's/nn$-tl", 'Office/nn-tl', ',/,', 'the/at', 'Bellwood/np', 'and/cc', 'Alpharetta/np', 'prison/nn', 'farms/nns', ',/,', 'Grady/np-tl', 'Hospital/nn-tl', 'and/cc', 'the/at', 'Fulton/np-tl', 'Health/nn-tl', 'Department/nn-tl', './.', 'Mayor/nn-tl', 'William/np', 'B./np', 'Hartsfield/np', 'filed/vbd', 'suit/nn', 'for/in', 'divorce/nn', 'from/in', 'his/pp$', 'wife/nn', ',/,', 'Pearl/np', 'Williams/np', 'Hartsfield/np', ',/,', 'in/in', 'Fulton/np-tl', 'Superior/jj-tl', 'Court/nn-tl', 'Friday/nr', './.', 'His/pp$', 'petition/nn', 'charged/vbd', 'mental/jj', 'cruelty/nn', './.', 'The/at', 'couple/nn', 'was/bedz', 'married/vbn', 'Aug./np', '2/cd', ',/,', '1913/cd', './.', 'They/ppss', 'have/hv', 'a/at', 'son/nn', ',/,', 'William/np', 'Berry/np', 'Jr./np', ',/,', 'and/cc', 'a/at', 'daughter/nn', ',/,', 'Mrs./np', 'J./np', 'M./np', 'Cheshire/np', 'of/in', 'Griffin/np', './.', 'Attorneys/nns', 'for/in', 'the/at', 'mayor/nn', 'said/vbd', 'that/cs', 'an/at', 'amicable/jj', 'property/nn', 'settlement/nn', 'has/hvz', 'been/ben', 'agreed/vbn', 'upon/rb', './.', 'The/at', 'petition/nn', 'listed/vbd', 'the/at', "mayor's/nn$", 'occupation/nn', 'as/cs', '``/``', 'attorney/nn', "''/''", 'and/cc', 'his/pp$', 'age/nn', 'as/cs', '71/cd', './.', 'It/pps', 'listed/vbd', 'his/pp$', "wife's/nn$", 'age/nn', 'as/cs', '74/cd', 'and/cc', 'place/nn', 'of/in', 'birth/nn', 'as/cs', 'Opelika/np', ',/,', 'Ala./np', './.', 'The/at', 'petition/nn', 'said/vbd', 'that/cs', 'the/at', 'couple/nn', 'has/hvz', 'not/*', 'lived/vbn', 'together/rb', 'as/cs', 'man/nn', 'and/cc', 'wife/nn', 'for/in', 'more/ap', 'than/in', 'a/at', 'year/nn', './.', 'The/at', 'Hartsfield/np', 'home/nr', 'is/bez', 'at/in', '637/cd', 'E./np', 'Pelham/np', 'Rd./nn-tl', 'Aj/nn', './.', 'Henry/np', 'L./np', 'Bowden/np', 'was/bedz', 'listed/vbn', 'on/in', 'the/at', 'petition/nn', 'as/cs', 'the/at', "mayor's/nn$", 'attorney/nn', './.', 'Hartsfield/np', 'has/hvz', 'been/ben', 'mayor/nn', 'of/in', 'Atlanta/np', ',/,', 'with/in', 'exception/nn', 'of/in', 'one/cd', 'brief/jj', 'interlude/nn', ',/,', 'since/in', '1937/cd', './.', 'His/pp$', 'political/jj', 'career/nn', 'goes/vbz', 'back/rb', 'to/in', 'his/pp$', 'election/nn', 'to/in', 'city/nn', 'council/nn', 'in/in', '1923/cd', './.', 'The/at', "mayor's/nn$", 'present/jj', 'term/nn', 'of/in', 'office/nn', 'expires/vbz', 'Jan./np', '1/cd', './.', 'He/pps', 'will/md', 'be/be', 'succeeded/vbn', 'by/in', 'Ivan/np', 'Allen/np', 'Jr./np', ',/,', 'who/wps', 'became/vbd', 'a/at', 'candidate/nn', 'in/in', 'the/at', 'Sept./np', '13/cd', 'primary/nn', 'after/cs', 'Mayor/nn-tl', 'Hartsfield/np', 'announced/vbd', 'that/cs', 'he/pps', 'would/md', 'not/*', 'run/vb', 'for/in', 'reelection/nn', './.', 'Georgia/np', 'Republicans/nps', 'are/ber', 'getting/vbg', 'strong/jj', 'encouragement/nn', 'to/to', 'enter/vb', 'a/at', 'candidate/nn', 'in/in', 'the/at', '1962/cd', "governor's/nn$", 'race/nn', ',/,', 'a/at', 'top/jjs', 'official/nn', 'said/vbd', 'Wednesday/nr', './.', 'Robert/np', 'Snodgrass/np', ',/,', 'state/nn', 'GOP/nn', 'chairman/nn', ',/,', 'said/vbd', 'a/at', 'meeting/nn', 'held/vbn', 'Tuesday/nr', 'night/nn', 'in/in', 'Blue/jj-tl', 'Ridge/nn-tl', 'brought/vbd', 'enthusiastic/jj', 'responses/nns', 'from/in', 'the/at', 'audience/nn', './.', 'State/nn-tl', 'Party/nn-tl', 'Chairman/nn-tl', 'James/np', 'W./np', 'Dorsey/np', 'added/vbd', 'that/cs', 'enthusiasm/nn', 'was/bedz', 'picking/vbg', 'up/rp', 'for/in', 'a/at', 'state/nn', 'rally/nn', 'to/to', 'be/be', 'held/vbn', 'Sept./np', '8/cd', 'in/in', 'Savannah/np', 'at/in', 'which/wdt', 'newly/rb', 'elected/vbn', 'Texas/np', 'Sen./nn-tl', 'John/np', 'Tower/np', 'will/md', 'be/be', 'the/at', 'featured/vbn', 'speaker/nn', './.', 'In/in', 'the/at', 'Blue/jj-tl', 'Ridge/nn-tl', 'meeting/nn', ',/,', 'the/at', 'audience/nn', 'was/bedz', 'warned/vbn', 'that/cs', 'entering/vbg', 'a/at', 'candidate/nn', 'for/in', 'governor/nn', 'would/md', 'force/vb', 'it/ppo', 'to/to', 'take/vb', 'petitions/nns', 'out/rp', 'into/in', 'voting/vbg', 'precincts/nns', 'to/to', 'obtain/vb', 'the/at', 'signatures/nns', 'of/in', 'registered/vbn', 'voters/nns', './.', 'Despite/in', 'the/at', 'warning/vbg', ',/,', 'there/ex', 'was/bedz', 'a/at', 'unanimous/jj', 'vote/nn', 'to/to', 'enter/vb', 'a/at', 'candidate/nn', ',/,', 'according/in', 'to/in', 'Republicans/nps', 'who/wps', 'attended/vbd', './.', 'When/wrb', 'the/at', 'crowd/nn', 'was/bedz', 'asked/vbn', 'whether/cs', 'it/pps', 'wanted/vbd', 'to/to', 'wait/vb', 'one/cd', 'more/ap', 'term/nn', 'to/to', 'make/vb', 'the/at', 'race/nn', ',/,', 'it/pps', 'voted/vbd', 'no/rb', '--/--', 'and/cc', 'there/ex', 'were/bed', 'no/at', 'dissents/nns', './.', 'The/at', 'largest/jjt', 'hurdle/nn', 'the/at', 'Republicans/nps', 'would/md', 'have/hv', 'to/to', 'face/vb', 'is/bez', 'a/at', 'state/nn', 'law/nn', 'which/wdt', 'says/vbz', 'that/cs', 'before/cs', 'making/vbg', 'a/at', 'first/od', 'race/nn', ',/,', 'one/cd', 'of/in', 'two/cd', 'alternative/jj', 'courses/nns', 'must/md', 'be/be', 'taken/vbn', ':/:', '1/cd', 'Five/cd', 'per/in', 'cent/nn', 'of/in', 'the/at', 'voters/nns', 'in/in', 'each/dt', 'county/nn', 'must/md', 'sign/vb', 'petitions/nns', 'requesting/vbg', 'that/cs', 'the/at', 'Republicans/nps', 'be/be', 'allowed/vbn', 'to/to', 'place/vb', 'names/nns', 'of/in', 'candidates/nns', 'on/in', 'the/at', 'general/jj', 'election/nn', 'ballot/nn', ',/,', 'or/cc', '2/cd', 'The/at', 'Republicans/nps', 'must/md', 'hold/vb', 'a/at', 'primary/nn', 'under/in', 'the/at', 'county/nn', 'unit/nn', 'system/nn', '--/--', 'a/at', 'system/nn', 'which/wdt', 'the/at', 'party/nn', 'opposes/vbz', 'in/in', 'its/pp$', 'platform/nn', './.', 'Sam/np', 'Caldwell/np', ',/,', 'State/nn-tl', 'Highway/nn-tl', 'Department/nn-tl', 'public/jj', 'relations/nns', 'director/nn', ',/,', 'resigned/vbd', 'Tuesday/nr', 'to/to', 'work/vb', 'for/in', 'Lt./nn-tl', 'Gov./nn-tl', 'Garland/np', "Byrd's/np$", 'campaign/nn', './.', "Caldwell's/np$", 'resignation/nn', 'had/hvd', 'been/ben', 'expected/vbn', 'for/in', 'some/dti', 'time/nn', './.', 'He/pps', 'will/md', 'be/be', 'succeeded/vbn', 'by/in', 'Rob/np', 'Ledford/np', 'of/in', 'Gainesville/np', ',/,', 'who/wps', 'has/hvz', 'been/ben', 'an/at', 'assistant/nn', 'more/ap', 'than/in', 'three/cd', 'years/nns', './.', 'When/wrb', 'the/at', 'gubernatorial/jj', 'campaign/nn', 'starts/vbz', ',/,', 'Caldwell/np', 'is/bez', 'expected/vbn', 'to/to', 'become/vb', 'a/at', 'campaign/nn', 'coordinator/nn', 'for/in', 'Byrd/np', './.', 'The/at', 'Georgia/np-tl', 'Legislature/nn-tl', 'will/md', 'wind/vb', 'up/rp', 'its/pp$', '1961/cd', 'session/nn', 'Monday/nr', 'and/cc', 'head/vb', 'for/in', 'home/nr', '--/--', 'where/wrb', 'some/dti', 'of/in', 'the/at', 'highway/nn', 'bond/nn', 'money/nn', 'it/pps', 'approved/vbd', 'will/md', 'follow/vb', 'shortly/rb', './.', 'Before/in', 'adjournment/nn', 'Monday/nr', 'afternoon/nn', ',/,', 'the/at', 'Senate/nn-tl', 'is/bez', 'expected/vbn', 'to/to', 'approve/vb', 'a/at', 'study/nn', 'of/in', 'the/at', 'number/nn', 'of/in', 'legislators/nns', 'allotted/vbn', 'to/in', 'rural/jj', 'and/cc', 'urban/jj', 'areas/nns', 'to/to', 'determine/vb', 'what/wdt', 'adjustments/nns', 'should/md', 'be/be', 'made/vbn', './.', 'Gov./nn-tl', 'Vandiver/np', 'is/bez', 'expected/vbn', 'to/to', 'make/vb', 'the/at', 'traditional/jj', 'visit/nn', 'to/in', 'both/abx', 'chambers/nns', 'as/cs', 'they/ppss', 'work/vb', 'toward/in', 'adjournment/nn', './.', 'Vandiver/np', 'likely/rb', 'will/md', 'mention/vb', 'the/at', '$100/nns', 'million/cd', 'highway/nn', 'bond/nn', 'issue/nn', 'approved/vbn', 'earlier/rbr', 'in/in', 'the/at', 'session/nn', 'as/cs', 'his/pp$', 'first/od', 'priority/nn', 'item/nn', './.', 'Construction/nn-hl', 'bonds/nns-hl', 'Meanwhile/rb', ',/,', 'it/pps', 'was/bedz', 'learned/vbn', 'the/at', 'State/nn-tl', 'Highway/nn-tl', 'Department/nn-tl', 'is/bez', 'very/ql', 'near/rb', 'being/beg', 'ready/jj', 'to/to', 'issue/vb', 'the/at', 'first/od', '$30/nns', 'million/cd', 'worth/nn', 'of/in', 'highway/nn', 'reconstruction/nn', 'bonds/nns', './.', 'The/at', 'bond/nn', 'issue/nn', 'will/md', 'go/vb', 'to/in', 'the/at', 'state/nn', 'courts/nns', 'for/in', 'a/at', 'friendly/jj', 'test/nn', 'suit/nn', 'to/to', 'test/vb', 'the/at', 'validity/nn', 'of/in', 'the/at', 'act/nn', ',/,', 'and/cc', 'then/rb', 'the/at', 'sales/nns', 'will/md', 'begin/vb', 'and/cc', 'contracts/nns', 'let/vbn', 'for/in', 'repair/nn', 'work/nn', 'on/in', 'some/dti', 'of/in', "Georgia's/np$", 'most/ql', 'heavily/rb', 'traveled/vbn', 'highways/nns', './.', 'A/at', 'Highway/nn-tl', 'Department/nn-tl', 'source/nn', 'said/vbd', 'there/ex', 'also/rb', 'is/bez', 'a/at', 'plan/nn', 'there/rb', 'to/to', 'issue/vb', 'some/dti', '$3/nns', 'million/cd', 'to/in', '$4/nns', 'million/cd', 'worth/nn', 'of/in', 'Rural/jj-tl', 'Roads/nns-tl', 'Authority/nn-tl', 'bonds/nns', 'for/in', 'rural/jj', 'road/nn', 'construction/nn', 'work/nn', './.', 'A/at-hl', 'revolving/vbg-hl', 'fund/nn-hl', 'The/at', 'department/nn', 'apparently/rb', 'intends/vbz', 'to/to', 'make/vb', 'the/at', 'Rural/jj-tl', 'Roads/nns-tl', 'Authority/nn-tl', 'a/at', 'revolving/vbg', 'fund/nn', 'under/in', 'which/wdt', 'new/jj', 'bonds/nns', 'would/md', 'be/be', 'issued/vbn', 'every/at', 'time/nn', 'a/at', 'portion/nn', 'of/in', 'the/at', 'old/jj', 'ones/nns', 'are/ber', 'paid/vbn', 'off/rp', 'by/in', 'tax/nn', 'authorities/nns', './.', 'Vandiver/np', 'opened/vbd', 'his/pp$', 'race/nn', 'for/in', 'governor/nn', 'in/in', '1958/cd', 'with/in', 'a/at', 'battle/nn', 'in/in', 'the/at', 'Legislature/nn-tl', 'against/in', 'the/at', 'issuance/nn', 'of/in', '$50/nns', 'million/cd', 'worth/nn', 'of/in', 'additional/jj', 'rural/jj', 'roads/nns', 'bonds/nns', 'proposed/vbn', 'by/in', 'then/rb', 'Gov./nn-tl', 'Marvin/np', 'Griffin/np', './.', 'The/at', 'Highway/nn-tl', 'Department/nn-tl', 'source/nn', 'told/vbd', 'The/at-tl', 'Constitution/nn-tl', ',/,', 'however/wrb', ',/,', 'that/cs', 'Vandiver/np', 'has/hvz', 'not/*', 'been/ben', 'consulted/vbn', 'yet/rb', 'about/in', 'the/at', 'plans/nns', 'to/to', 'issue/vb', 'the/at', 'new/jj', 'rural/jj', 'roads/nns', 'bonds/nns', './.', 'Schley/np', 'County/nn-tl', 'Rep./nn-tl', 'B./np', 'D./np', 'Pelham/np', 'will/md', 'offer/vb', 'a/at', 'resolution/nn', 'Monday/nr', 'in/in', 'the/at', 'House/nn-tl', 'to/to', 'rescind/vb', 'the/at', "body's/nn$", 'action/nn', 'of/in', 'Friday/nr', 'in/in', 'voting/vbg', 'itself/ppl', 'a/at', '$10/nns', 'per/in', 'day/nn', 'increase/nn', 'in/in', 'expense/nn', 'allowances/nns', './.', 'Pelham/np', 'said/vbd', 'Sunday/nr', 'night/nn', 'there/ex', 'was/bedz', 'research/nn', 'being/beg', 'done/vbn', 'on/in', 'whether/cs', 'the/at', '``/``', 'quickie/nn', "''/''", 'vote/nn', 'on/in', 'the/at', 'increase/nn', 'can/md', 'be/be', 'repealed/vbn', 'outright/rb', 'or/cc', 'whether/cs', 'notice/nn', 'would/md', 'have/hv', 'to/to', 'first/rb', 'be/be', 'given/vbn', 'that/cs', 'reconsideration/nn', 'of/in', 'the/at', 'action/nn', 'would/md', 'be/be', 'sought/vbn', './.', 'While/cs', 'emphasizing/vbg', 'that/cs', 'technical/jj', 'details/nns', 'were/bed', 'not/*', 'fully/rb', 'worked/vbn', 'out/rp', ',/,', 'Pelham/np', 'said/vbd', 'his/pp$', 'resolution/nn', 'would/md', 'seek/vb', 'to/to', 'set/vb', 'aside/rb', 'the/at', 'privilege/nn', 'resolution/nn', 'which/wdt', 'the/at', 'House/nn-tl', 'voted/vbd', 'through/in', '87-31/cd', './.', 'A/at', 'similar/jj', 'resolution/nn', 'passed/vbd', 'in/in', 'the/at', 'Senate/nn-tl', 'by/in', 'a/at', 'vote/nn', 'of/in', '29-5/cd', './.', 'As/in', 'of/in', 'Sunday/nr', 'night/nn', ',/,', 'there/ex', 'was/bedz', 'no/at', 'word/nn', 'of/in', 'a/at', 'resolution/nn', 'being/beg', 'offered/vbn', 'there/rb', 'to/to', 'rescind/vb', 'the/at', 'action/nn', './.', 'Pelham/np', 'pointed/vbd', 'out/rp', 'that/cs', 'Georgia/np', 'voters/nns', 'last/ap', 'November/np', 'rejected/vbd', 'a/at', 'constitutional/jj', 'amendment/nn', 'to/to', 'allow/vb', 'legislators/nns', 'to/to', 'vote/vb', 'on/in', 'pay/nn', 'raises/nns', 'for/in', 'future/jj', 'Legislature/nn-tl', 'sessions/nns', './.', 'A/at', 'veteran/jj', 'Jackson/np-tl', 'County/nn-tl', 'legislator/nn', 'will/md', 'ask/vb', 'the/at', 'Georgia/np-tl', 'House/nn-tl', 'Monday/nr', 'to/to', 'back/vb', 'federal/jj', 'aid/nn', 'to/in', 'education/nn', ',/,', 'something/pn', 'it/pps', 'has/hvz', 'consistently/rb', 'opposed/vbn', 'in/in', 'the/at', 'past/nn', './.', 'Rep./nn-tl', 'Mac/np', 'Barber/np', 'of/in', 'Commerce/nn-tl', 'is/bez', 'asking/vbg', 'the/at', 'House/nn-tl', 'in/in', 'a/at', 'privilege/nn', 'resolution/nn', 'to/to', '``/``', 'endorse/vb', 'increased/vbn', 'federal/jj', 'support/nn', 'for/in', 'public/jj', 'education/nn', ',/,', 'provided/vbn', 'that/cs', 'such/jj', 'funds/nns', 'be/be', 'received/vbn', 'and/cc', 'expended/vbn', "''/''", 'as/cs', 'state/nn', 'funds/nns', './.', 'Barber/np', ',/,', 'who/wps', 'is/bez', 'in/in', 'his/pp$', '13th/od', 'year/nn', 'as/cs', 'a/at', 'legislator/nn', ',/,', 'said/vbd', 'there/ex', '``/``', 'are/ber', 'some/dti', 'members/nns', 'of/in', 'our/pp$', 'congressional/jj', 'delegation/nn', 'in/in', 'Washington/np', 'who/wps', 'would/md', 'like/vb', 'to/to', 'see/vb', 'it/ppo', '(/(', 'the/at', 'resolution/nn', ')/)', 'passed/vbn', "''/''", './.', 'But/cc', 'he/pps', 'added/vbd', 'that/cs', 'none/pn', 'of/in', "Georgia's/np$", 'congressmen/nns', 'specifically/rb', 'asked/vbd', 'him/ppo', 'to/to', 'offer/vb', 'the/at', 'resolution/nn', './.', 'The/at', 'resolution/nn', ',/,', 'which/wdt', 'Barber/np', 'tossed/vbd', 'into/in', 'the/at', 'House/nn-tl', 'hopper/nn', 'Friday/nr', ',/,', 'will/md', 'be/be', 'formally/rb', 'read/vbn', 'Monday/nr', './.', 'It/pps', 'says/vbz', 'that/cs', '``/``', 'in/in', 'the/at', 'event/nn', 'Congress/np', 'does/doz', 'provide/vb', 'this/dt', 'increase/nn', 'in/in', 'federal/jj', 'funds/nns', "''/''", ',/,', 'the/at', 'State/nn-tl', 'Board/nn-tl', 'of/in-tl', 'Education/nn-tl', 'should/md', 'be/be', 'directed/vbn', 'to/to', '``/``', 'give/vb', 'priority/nn', "''/''", 'to/in', 'teacher/nn', 'pay/nn', 'raises/nns', './.', 'Colquitt/np-hl', '--/--', 'After/in', 'a/at', 'long/jj', ',/,', 'hot/jj', 'controversy/nn', ',/,', 'Miller/np-tl', 'County/nn-tl', 'has/hvz', 'a/at', 'new/jj', 'school/nn', 'superintendent/nn', ',/,', 'elected/vbn', ',/,', 'as/cs', 'a/at', 'policeman/nn', 'put/vbd', 'it/ppo', ',/,', 'in/in', 'the/at', '``/``', 'coolest/jjt', 'election/nn', 'I/ppss', 'ever/rb', 'saw/vbd', 'in/in', 'this/dt', 'county/nn', "''/''", './.', 'The/at', 'new/jj', 'school/nn', 'superintendent/nn', 'is/bez', 'Harry/np', 'Davis/np', ',/,', 'a/at', 'veteran/jj', 'agriculture/nn', 'teacher/nn', ',/,', 'who/wps', 'defeated/vbd', 'Felix/np', 'Bush/np', ',/,', 'a/at', 'school/nn', 'principal/nn', 'and/cc', 'chairman/nn', 'of/in', 'the/at', 'Miller/np-tl', 'County/nn-tl', 'Democratic/jj-tl', 'Executive/jj-tl', 'Committee/nn-tl', './.', 'Davis/np', 'received/vbd', '1,119/cd', 'votes/nns', 'in/in', "Saturday's/nr$", 'election/nn', ',/,', 'and/cc', 'Bush/np', 'got/vbd', '402/cd', './.', 'Ordinary/nn-tl', 'Carey/np', 'Williams/np', ',/,', 'armed/vbn', 'with/in', 'a/at', 'pistol/nn', ',/,', 'stood/vbd', 'by/in', 'at/in', 'the/at', 'polls/nns', 'to/to', 'insure/vb', 'order/nn', './.', '``/``', 'This/dt', 'was/bedz', 'the/at', 'coolest/jjt', ',/,', 'calmest/jjt', 'election/nn', 'I/ppss', 'ever/rb', 'saw/vbd', "''/''", ',/,', 'Colquitt/np-tl', 'Policeman/nn-tl', 'Tom/np', 'Williams/np', 'said/vbd', './.', '``/``', 'Being/beg', 'at/in', 'the/at', 'polls/nns', 'was/bedz', 'just/rb', 'like/cs', 'being/beg', 'at/in', 'church/nn', './.', 'I/ppss', "didn't/dod*", 'smell/vb', 'a/at', 'drop/nn', 'of/in', 'liquor/nn', ',/,', 'and/cc', 'we/ppss', "didn't/dod*", 'have/hv', 'a/at', 'bit/nn', 'of/in', 'trouble/nn', "''/''", './.', 'The/at', 'campaign/nn', 'leading/vbg', 'to/in', 'the/at', 'election/nn', 'was/bedz', 'not/*', 'so/ql', 'quiet/jj', ',/,', 'however/wrb', './.', 'It/pps', 'was/bedz', 'marked/vbn', 'by/in', 'controversy/nn', ',/,', 'anonymous/jj', 'midnight/nn', 'phone/nn', 'calls/nns', 'and/cc', 'veiled/vbn', 'threats/nns', 'of/in', 'violence/nn', './.', 'The/at', 'former/ap', 'county/nn', 'school/nn', 'superintendent/nn', ',/,', 'George/np', 'P./np', 'Callan/np', ',/,', 'shot/vbd', 'himself/ppl', 'to/in', 'death/nn', 'March/np', '18/cd', ',/,', 'four/cd', 'days/nns', 'after/cs', 'he/pps', 'resigned/vbd', 'his/pp$', 'post/nn', 'in/in', 'a/at', 'dispute/nn', 'with/in', 'the/at', 'county/nn', 'school/nn', 'board/nn', './.', 'During/in', 'the/at', 'election/nn', 'campaign/nn', ',/,', 'both/abx', 'candidates/nns', ',/,', 'Davis/np', 'and/cc', 'Bush/np', ',/,', 'reportedly/rb', 'received/vbd', 'anonymous/jj', 'telephone/nn', 'calls/nns', './.', 'Ordinary/nn-tl', 'Williams/np', 'said/vbd', 'he/pps', ',/,', 'too/rb', ',/,', 'was/bedz', 'subjected/vbn', 'to/in', 'anonymous/jj', 'calls/nns', 'soon/rb', 'after/cs', 'he/pps', 'scheduled/vbd', 'the/at', 'election/nn', './.', 'Many/ap', 'local/jj', 'citizens/nns', 'feared/vbd', 'that/cs', 'there/ex', 'would/md', 'be/be', 'irregularities/nns', 'at/in', 'the/at', 'polls/nns', ',/,', 'and/cc', 'Williams/np', 'got/vbd', 'himself/ppl', 'a/at', 'permit/nn', 'to/to', 'carry/vb', 'a/at', 'gun/nn', 'and/cc', 'promised/vbd', 'an/at', 'orderly/jj', 'election/nn', './.', 'Sheriff/nn-tl', 'Felix/np', 'Tabb/np', 'said/vbd', 'the/at', 'ordinary/nn', 'apparently/rb', 'made/vbd', 'good/jj', 'his/pp$', 'promise/nn', './.', '``/``', 'Everything/pn', 'went/vbd', 'real/ql', 'smooth/jj', "''/''", ',/,', 'the/at', 'sheriff/nn', 'said/vbd', './.', '``/``', 'There/ex', "wasn't/bedz*", 'a/at', 'bit/nn', 'of/in', 'trouble/nn', "''/''", './.']
+$10/nns 1
+$100/nns 1
+$3/nns 1
+$30/nns 1
+$4/nns 1
+$50/nns 1
+''/'' 33
+(/( 3
+)/) 3
+,/, 87
+--/-- 4
+./. 88
+1,119/cd 1
+1/cd 4
+13/cd 1
+13th/od 1
+18/cd 1
+1913/cd 1
+1923/cd 1
+1937/cd 1
+1958/cd 1
+1961/cd 1
+1962/cd 1
+2/cd 3
+29-5/cd 1
+402/cd 1
+637/cd 1
+71/cd 1
+74/cd 1
+8/cd 1
+87-31/cd 1
+:/: 2
+A/at 3
+A/at-hl 1
+After/in 1
+Aj/nn 1
+Ala./np 1
+Allen/np 2
+Alpharetta/np 1
+As/in 1
+Ask/vb-hl 1
+Association/nn-tl 1
+Atlanta's/np$ 2
+Atlanta/np 2
+Atlanta/np-tl 3
+Attorneys/nns 1
+Aug./np 1
+Authority/nn-tl 2
+B./np 2
+Bar/nn-tl 1
+Barber/np 3
+Before/in 1
+Being/beg 1
+Bellwood/np 1
+Berry/np 1
+Blue/jj-tl 2
+Board/nn-tl 1
+Bowden/np 1
+Bush/np 3
+But/cc 1
+Byrd's/np$ 1
+Byrd/np 1
+Caldwell's/np$ 1
+Caldwell/np 2
+Callan/np 1
+Carey/np 1
+Chairman/nn-tl 1
+Cheshire/np 1
+City/nn-tl 3
+Colquitt/np-hl 1
+Colquitt/np-tl 1
+Commerce/nn-tl 1
+Commissioner's/nn$-tl 1
+Committee/nn-tl 2
+Congress/np 1
+Constitution/nn-tl 1
+Construction/nn-hl 1
+County/nn-tl 10
+Court/nn-tl 2
+D./np 1
+Davis/np 3
+Democratic/jj-tl 1
+Department's/nn$-tl 1
+Department/nn-tl 8
+Despite/in 1
+Dorsey/np 1
+During/in 1
+Durwood/np 1
+E./np 1
+Education/nn-tl 1
+Everything/pn 1
+Executive/jj-tl 2
+Failure/nn 1
+Felix/np 2
+Five/cd 1
+Four/cd 1
+Friday/nr 4
+Fulton/np 4
+Fulton/np-tl 10
+GOP/nn 1
+Gainesville/np 1
+Garland/np 1
+George/np 1
+Georgia's/np$ 4
+Georgia/np 2
+Georgia/np-tl 2
+Gov./nn-tl 3
+Grady/np-tl 1
+Grand/jj-tl 1
+Griffin/np 2
+Harry/np 1
+Hartsfield/np 5
+He/pps 2
+Health/nn-tl 1
+Henry/np 1
+Highway/nn-tl 4
+His/pp$ 2
+Hospital/nn-tl 1
+House/nn-tl 5
+However/wrb 1
+I/ppss 3
+Implementation/nn 1
+In/in 1
+It/pps 6
+Ivan/np 2
+J./np 1
+Jackson/np-tl 1
+Jail/nn-tl 1
+James/np 1
+Jan./np 2
+John/np 1
+Jr./np 3
+Judge/nn-tl 1
+Jury/nn-tl 1
+L./np 1
+Ledford/np 1
+Legislature/nn-tl 4
+Lt./nn-tl 1
+M./np 1
+Mac/np 1
+Many/ap 1
+March/np 1
+Marvin/np 1
+Mayor-nominate/nn-tl 1
+Mayor/nn-tl 2
+Meanwhile/rb 1
+Merger/nn-hl 1
+Miller/np-tl 2
+Monday/nr 5
+Mrs./np 1
+Nevertheless/rb 1
+November/np 1
+Office/nn-tl 1
+On/in 1
+Only/rb 1
+Opelika/np 1
+Ordinary/nn-tl 2
+P./np 1
+Party/nn-tl 1
+Pearl/np 1
+Pelham/np 5
+Police/nns-tl 1
+Policeman/nn-tl 1
+Purchasing/vbg-tl 1
+Pye/np 1
+Rd./nn-tl 1
+Regarding/in 1
+Rep./nn-tl 2
+Republicans/nps 5
+Ridge/nn-tl 2
+Roads/nns-tl 2
+Rob/np 1
+Robert/np 1
+Rural/jj-tl 2
+Sam/np 1
+Saturday's/nr$ 1
+Savannah/np 1
+Schley/np 1
+Sen./nn-tl 1
+Senate/nn-tl 2
+Sept./np 2
+September-October/np 1
+Sheriff/nn-tl 1
+Snodgrass/np 1
+State/nn-tl 6
+Sunday/nr 2
+Superior/jj-tl 2
+Tabb/np 1
+Tax/nn-tl 1
+Texas/np 1
+The/at 27
+The/at-tl 1
+There/ex 1
+These/dts 1
+They/ppss 1
+This/dt 2
+Tom/np 1
+Tower/np 1
+Tuesday/nr 2
+Vandiver/np 4
+W./np 1
+Wards/nns-hl 1
+Washington/np 1
+Wednesday/nr 1
+Welfare/nn-tl 2
+When/wrb 2
+While/cs 1
+William/np 2
+Williams/np 5
+``/`` 34
+a/at 50
+about/in 1
+accepted/vbn 1
+according/in 1
+achieve/vb 1
+act/nn 1
+act/vb 1
+action/nn 3
+actions/nns 1
+added/vbd 3
+additional/jj 2
+adjournment/nn 2
+adjustments/nns 1
+administration/nn 2
+administrators/nns 1
+after/cs 3
+afternoon/nn 1
+against/in 1
+age/nn 2
+agreed/vbn 1
+agriculture/nn 1
+aid/nn 1
+airport/nn 2
+all/abn 1
+allotted/vbn 1
+allow/vb 1
+allowances/nns 1
+allowed/vbn 1
+also/rb 3
+alternative/jj 1
+ambiguous/jj 1
+amendment/nn 1
+amicable/jj 1
+among/in 1
+an/at 6
+and/cc 40
+announced/vbd 1
+anonymous/jj 3
+any/dti 1
+apparently/rb 2
+appointed/vbn 1
+appointment/nn 1
+appraisers/nns 1
+approve/vb 1
+approved/vbd 1
+approved/vbn 1
+are/ber 5
+areas/nns 1
+armed/vbn 1
+as/cs 12
+aside/rb 1
+ask/vb 1
+asked/vbd 1
+asked/vbn 1
+asking/vbg 1
+assistance/nn 1
+assistant/nn 1
+at/in 9
+attended/vbd 1
+attorney/nn 2
+audience/nn 2
+authorities/nns 1
+automobile/nn 1
+available/jj 1
+awarding/nn 1
+back/rb 1
+back/vb 1
+ballot/nn 1
+battle/nn 1
+be/be 21
+became/vbd 1
+become/vb 1
+been/ben 7
+before/cs 1
+begin/vb 1
+being/beg 4
+believes/vbz 1
+best/jjt 1
+birth/nn 1
+bit/nn 2
+board/nn 1
+body's/nn$ 1
+bond/nn 3
+bonds/nns 5
+bonds/nns-hl 1
+both/abx 3
+brief/jj 1
+brought/vbd 1
+burden/nn 1
+but/cc 2
+by/in 10
+calls/nns 3
+calmest/jjt 1
+campaign/nn 5
+can/md 1
+candidate/nn 4
+candidates/nns 2
+career/nn 1
+carry/vb 1
+cent/nn 1
+chairman/nn 2
+chambers/nns 1
+charge/nn 2
+charged/vbd 1
+charged/vbn 1
+child/nn 1
+church/nn 1
+citizens/nns 2
+city/nn 6
+clerical/jj 1
+combined/vbn 1
+commented/vbd 2
+committee/nn 1
+compensation/nn 1
+concessionaires/nns 1
+conducted/vbn 1
+congressional/jj 1
+congressmen/nns 1
+considering/in 1
+consistently/rb 1
+constitutional/jj 1
+construction/nn 1
+consulted/vbn 1
+continue/vb 1
+contracts/nns 1
+controversy/nn 2
+coolest/jjt 2
+coordinator/nn 1
+cost/nn 1
+costs/nns 1
+council/nn 1
+counties/nns 2
+county/nn 5
+couple/nn 2
+courses/nns 1
+court's/nn$ 1
+court/nn 2
+courts/nns 1
+criticisms/nns 1
+crowd/nn 1
+cruelty/nn 1
+date/nn 1
+daughter/nn 1
+day/nn 1
+days/nns 1
+death/nn 1
+defeated/vbd 1
+delegation/nn 1
+department/nn 1
+departments/nns 2
+deputies/nns 1
+deputies/nns-hl 1
+deserves/vbz 1
+details/nns 1
+determine/vb 1
+did/dod 2
+didn't/dod* 2
+directed/vbn 1
+director/nn 1
+disable/vb 1
+disproportionate/jj 1
+dispute/nn 1
+dissents/nns 1
+distribute/vb 1
+distribution/nn 1
+divorce/nn 1
+do/do 1
+doctor/nn 1
+does/doz 1
+done/vbn 1
+drop/nn 1
+duty/nn 1
+each/dt 1
+earlier/rbr 1
+education/nn 2
+effect/nn 1
+effected/vbn 1
+effective/jj 1
+efficiency/nn 1
+elaborate/vb 1
+elected/vbn 3
+election/nn 14
+eliminate/vb 1
+emphasizing/vbg 1
+employed/vbn 2
+employes/nns 1
+enabling/vbg 2
+encouragement/nn 1
+end/nn 1
+endorse/vb 1
+enter/vb 2
+entering/vbg 1
+enthusiasm/nn 1
+enthusiastic/jj 1
+equitable/jj 1
+establishment/nn 1
+event/nn 1
+ever/rb 2
+every/at 1
+evidence/nn 1
+exception/nn 2
+expected/vbn 4
+expended/vbn 1
+expense/nn 1
+experienced/vbn 1
+expires/vbz 1
+extern/nn 1
+face/vb 1
+fact/nn 1
+fair/jj 1
+farms/nns 1
+feared/vbd 1
+featured/vbn 1
+federal/jj 4
+feel/vb 1
+fees/nns 1
+filed/vbd 1
+find/vb 1
+fire/nn 1
+first/od 3
+first/rb 1
+fit/jj 1
+follow/vb 2
+for/in 22
+force/vb 1
+formally/rb 1
+former/ap 1
+foster/jj 1
+found/vbd 1
+four/cd 1
+friendly/jj 1
+from/in 4
+fully/rb 1
+fund/nn 1
+fund/nn-hl 1
+funds/nns 8
+further/rbr 1
+future/jj 1
+future/nn 1
+general/jj 2
+generally/rb 1
+getting/vbg 1
+give/vb 1
+given/vbn 1
+go/vb 1
+goes/vbz 1
+good/jj 1
+got/vbd 2
+governments/nns 1
+governor's/nn$ 1
+governor/nn 2
+grand/jj 3
+granted/vbn 1
+greater/jjr 1
+guardians/nns 1
+gubernatorial/jj 1
+gun/nn 1
+had/hvd 3
+handful/nn 1
+handling/nn 1
+hard-fought/jj 1
+has/hvz 10
+have/hv 5
+he/pps 5
+head/vb 1
+heavily/rb 1
+held/vbn 2
+highway/nn 3
+highways/nns 1
+him/ppo 1
+himself/ppl 2
+his/pp$ 10
+hold/vb 1
+home/nr 2
+homes/nns 1
+hopper/nn 1
+hot/jj 1
+however/wrb 2
+hurdle/nn 1
+implementation/nn 1
+improving/vbg 1
+in/in 39
+inadequate/jj 1
+incorporated/vbn 1
+increase/nn 3
+increased/vbn 1
+influences/nns 1
+insure/vb 1
+intends/vbz 1
+interest/nn 2
+interim/nn 1
+interlude/nn 1
+intern/nn 1
+into/in 3
+inure/vb 1
+investigate/vb 1
+investigation/nn 1
+irregularities/nns 3
+is/bez 12
+issuance/nn 1
+issue/nn 2
+issue/vb 3
+issued/vbn 1
+it/ppo 3
+it/pps 10
+item/nn 1
+items/nns 1
+its/pp$ 5
+itself/ppl 1
+jail/nn 1
+jail/nn-hl 1
+juries/nns 1
+jurors/nns 2
+jury/nn 17
+just/rb 1
+keeping/vbg 1
+lacking/vbg 1
+largest/jjt 1
+last/ap 1
+law/nn 3
+laws/nns 2
+leading/vbg 1
+learned/vbn 1
+legislation/nn 1
+legislator/nn 2
+legislators/nns 4
+less/ql 1
+let/vbn 1
+like/cs 1
+like/vb 1
+likely/rb 1
+liquor/nn 1
+listed/vbd 2
+listed/vbn 1
+lived/vbn 1
+local/jj 1
+long/jj 1
+made/vbd 1
+made/vbn 1
+major/jj 1
+make/vb 3
+making/vbg 1
+man/nn 1
+management/nn 1
+manner/nn 2
+many/ap 1
+marked/vbn 1
+married/vbn 1
+matters/nns 1
+may/md 1
+mayor's/nn$ 3
+mayor/nn 2
+medical/jj 1
+meeting/nn 2
+members/nns 1
+mental/jj 1
+mention/vb 1
+midnight/nn 1
+might/md 1
+million/cd 5
+modernizing/vbg 1
+money/nn 2
+more/ap 3
+most/ql 1
+multi-million-dollar/jj 1
+must/md 3
+names/nns 1
+near/rb 1
+new/jj 6
+newly/rb 1
+next/ap 1
+night/nn 4
+no/at 3
+no/rb 1
+none/pn 2
+not/* 6
+notice/nn 1
+number/nn 3
+obtain/vb 1
+occupation/nn 1
+of/in 63
+of/in-tl 2
+off/rp 1
+offer/vb 2
+offered/vbn 1
+office/nn 1
+offices/nns 1
+official/nn 1
+officials/nns 1
+often/rb 1
+old/jj 1
+on/in 9
+one/cd 4
+ones/nns 1
+opened/vbd 1
+operated/vbn 2
+operating/vbg 1
+operation/nn 1
+opposed/vbn 1
+opposes/vbz 1
+or/cc 4
+order/nn 1
+orderly/jj 2
+ordinary's/nn$ 1
+ordinary/nn 1
+other/ap 2
+our/pp$ 2
+out/rp 3
+outgoing/jj 1
+outmoded/jj 1
+outright/rb 1
+over-all/jj 1
+paid/vbn 1
+party/nn 1
+pass/vb 1
+passed/vbd 1
+passed/vbn 1
+past/nn 1
+pay/nn 2
+pension/nn 1
+per/in 2
+periodic/jj 1
+permit/nn 1
+permit/vb 1
+personnel/nns 2
+petition/nn 4
+petitions/nns 2
+phone/nn 1
+picking/vbg 1
+pistol/nn 1
+place/nn 2
+place/vb 2
+plan/nn 2
+plans/nns 1
+platform/nn 1
+pointed/vbd 1
+policeman/nn 1
+policies/nns 1
+political/jj 2
+polls/nns 3
+populous/jj 1
+portion/nn 2
+possible/jj 1
+post/nn 1
+practices/nns 3
+praise/nn 1
+praised/vbd 1
+precincts/nns 1
+present/jj 1
+presentments/nns 1
+previous/jj 1
+prices/nns 1
+pricing/vbg 1
+primary/nn 4
+principal/nn 1
+priority/nn 2
+prison/nn 1
+privilege/nn 2
+problem/nn 1
+procedures/nns 1
+produced/vbd 1
+program/nn 2
+promise/nn 1
+promised/vbd 1
+property/nn 1
+proportionate/jj 1
+proposed/vbn 1
+proposed/vbn-hl 1
+protect/vb 1
+protected/vbn-hl 1
+provide/vb 2
+provided/vbn 1
+public/jj 2
+purchasing/vbg 1
+purpose/nn 1
+put/vbd 1
+quickie/nn 1
+quiet/jj 1
+race/nn 4
+raises/nns 2
+rally/nn 1
+re-set/vb 1
+read/vbn 1
+ready/jj 1
+real/ql 1
+realize/vb 1
+reasonable/jj 1
+receive/vb 1
+received/vbd 2
+received/vbn 2
+receives/vbz 1
+recent/jj 1
+recommendations/nns 1
+recommended/vbd 3
+recommended/vbn 1
+reconsideration/nn 1
+reconstruction/nn 1
+reduce/vb 1
+reelection/nn 1
+registered/vbn 1
+registration/nn 1
+rejected/vbd 1
+relations/nns 1
+relative/jj 1
+remedy/vb 1
+repair/nn 1
+repealed/vbn 1
+reportedly/rb 1
+reports/nns 2
+requesting/vbg 1
+rescind/vb 2
+research/nn 1
+resignation/nn 1
+resigned/vbd 2
+resolution/nn 9
+responses/nns 1
+result/nn 1
+revised/vbn 1
+revolving/vbg 1
+revolving/vbg-hl 1
+road/nn 1
+roads/nns 2
+run/vb 1
+rural/jj 4
+said/vbd 24
+sales/nns 1
+saw/vbd 2
+says/vbz 2
+scheduled/vbd 1
+school/nn 5
+see/vb 1
+seek/vb 1
+seen/vbn 1
+servants/nns 1
+serve/vb 1
+services/nns 1
+session/nn 2
+sessions/nns 1
+set/vb 1
+settlement/nn 1
+sheriff/nn 1
+shortly/rb 1
+shot/vbd 1
+should/md 6
+sign/vb 1
+signatures/nns 1
+similar/jj 1
+since/in 1
+size/nn 1
+smell/vb 1
+smooth/jj 1
+so/cs 1
+so/ql 1
+some/dti 6
+something/pn 1
+son/nn 1
+soon/rb 1
+sought/vbn 1
+source/nn 2
+speaker/nn 1
+specifically/rb 1
+starts/vbz 1
+state/nn 6
+steps/nns 1
+stood/vbd 1
+strong/jj 1
+studied/vbn 1
+study/nn 1
+subjected/vbn 1
+succeeded/vbn 2
+such/jj 2
+suit/nn 2
+superintendent/nn 3
+support/nn 1
+surveillance/nn 1
+swipe/nn 1
+system/nn 2
+take/vb 2
+taken/vbn 1
+takes/vbz 1
+tax/nn 1
+taxpayers/nns 1
+teacher/nn 2
+technical/jj 1
+telephone/nn 1
+term-end/nn 1
+term/nn 3
+test/nn 1
+test/vb 1
+than/in 2
+thanks/nns 1
+that/cs 26
+that/wps 2
+the/at 127
+them/ppo 2
+then/rb 2
+there/ex 8
+there/rb 2
+these/dts 5
+they/ppss 2
+this/dt 7
+threats/nns 1
+three/cd 1
+through/in 2
+time/nn 2
+title/nn 1
+to/in 14
+to/to 41
+together/rb 1
+told/vbd 1
+too/rb 1
+took/vbd 2
+top/jjs 1
+topics/nns 1
+tossed/vbd 1
+toward/in 1
+traditional/jj 1
+traveled/vbn 1
+trouble/nn 2
+two/cd 3
+unanimous/jj 1
+under/in 3
+undue/jj 1
+unit/nn 1
+unmeritorious/jj 1
+up/rp 2
+upon/rb 1
+urban/jj 1
+urged/vbd 2
+validity/nn 1
+veiled/vbn 1
+very/ql 1
+veteran/jj 2
+violence/nn 1
+visit/nn 1
+vote/nn 3
+vote/vb 1
+voted/vbd 2
+voters/nns 4
+votes/nns 1
+voting/vbg 2
+wait/vb 1
+wanted/vbd 1
+wards/nns 1
+warned/vbn 1
+warning/vbg 1
+was/bedz 18
+wasn't/bedz* 1
+we/ppss 2
+weekend/nn 1
+welfare/nn 2
+well/ql 1
+went/vbd 1
+were/bed 2
+what/wdt 1
+when/wrb 1
+where/wrb 1
+whether/cs 3
+which/wdt 13
+who/wps 6
+widespread/jj 1
+wife's/nn$ 1
+wife/nn 2
+will/md 14
+wind/vb 1
+with/in 6
+won/vbn 1
+word/nn 1
+work/nn 2
+work/vb 3
+worked/vbn 1
+worth/nn 3
+would/md 9
+year/nn 2
+years/nns 1
+yet/rb 1
+    1 $10/nns
+    1 $100/nns
+    1 $3/nns
+    1 $30/nns
+    1 $4/nns
+    1 $50/nns
+    1 1,119/cd
+    1 13/cd
+    1 13th/od
+    1 18/cd
+    1 1913/cd
+    1 1923/cd
+    1 1937/cd
+    1 1958/cd
+    1 1961/cd
+    1 1962/cd
+    1 29-5/cd
+    1 402/cd
+    1 637/cd
+    1 71/cd
+    1 74/cd
+    1 8/cd
+    1 87-31/cd
+    1 A/at-hl
+    1 After/in
+    1 Aj/nn
+    1 Ala./np
+    1 Alpharetta/np
+    1 As/in
+    1 Ask/vb-hl
+    1 Association/nn-tl
+    1 Attorneys/nns
+    1 Aug./np
+    1 Bar/nn-tl
+    1 Before/in
+    1 Being/beg
+    1 Bellwood/np
+    1 Berry/np
+    1 Board/nn-tl
+    1 Bowden/np
+    1 But/cc
+    1 Byrd's/np$
+    1 Byrd/np
+    1 Caldwell's/np$
+    1 Callan/np
+    1 Carey/np
+    1 Chairman/nn-tl
+    1 Cheshire/np
+    1 Colquitt/np-hl
+    1 Colquitt/np-tl
+    1 Commerce/nn-tl
+    1 Commissioner's/nn$-tl
+    1 Congress/np
+    1 Constitution/nn-tl
+    1 Construction/nn-hl
+    1 D./np
+    1 Democratic/jj-tl
+    1 Department's/nn$-tl
+    1 Despite/in
+    1 Dorsey/np
+    1 During/in
+    1 Durwood/np
+    1 E./np
+    1 Education/nn-tl
+    1 Everything/pn
+    1 Failure/nn
+    1 Five/cd
+    1 Four/cd
+    1 GOP/nn
+    1 Gainesville/np
+    1 Garland/np
+    1 George/np
+    1 Grady/np-tl
+    1 Grand/jj-tl
+    1 Harry/np
+    1 Health/nn-tl
+    1 Henry/np
+    1 Hospital/nn-tl
+    1 However/wrb
+    1 Implementation/nn
+    1 In/in
+    1 J./np
+    1 Jackson/np-tl
+    1 Jail/nn-tl
+    1 James/np
+    1 John/np
+    1 Judge/nn-tl
+    1 Jury/nn-tl
+    1 L./np
+    1 Ledford/np
+    1 Lt./nn-tl
+    1 M./np
+    1 Mac/np
+    1 Many/ap
+    1 March/np
+    1 Marvin/np
+    1 Mayor-nominate/nn-tl
+    1 Meanwhile/rb
+    1 Merger/nn-hl
+    1 Mrs./np
+    1 Nevertheless/rb
+    1 November/np
+    1 Office/nn-tl
+    1 On/in
+    1 Only/rb
+    1 Opelika/np
+    1 P./np
+    1 Party/nn-tl
+    1 Pearl/np
+    1 Police/nns-tl
+    1 Policeman/nn-tl
+    1 Purchasing/vbg-tl
+    1 Pye/np
+    1 Rd./nn-tl
+    1 Regarding/in
+    1 Rob/np
+    1 Robert/np
+    1 Sam/np
+    1 Saturday's/nr$
+    1 Savannah/np
+    1 Schley/np
+    1 Sen./nn-tl
+    1 September-October/np
+    1 Sheriff/nn-tl
+    1 Snodgrass/np
+    1 Tabb/np
+    1 Tax/nn-tl
+    1 Texas/np
+    1 The/at-tl
+    1 There/ex
+    1 These/dts
+    1 They/ppss
+    1 Tom/np
+    1 Tower/np
+    1 W./np
+    1 Wards/nns-hl
+    1 Washington/np
+    1 Wednesday/nr
+    1 While/cs
+    1 about/in
+    1 accepted/vbn
+    1 according/in
+    1 achieve/vb
+    1 act/nn
+    1 act/vb
+    1 actions/nns
+    1 adjustments/nns
+    1 administrators/nns
+    1 afternoon/nn
+    1 against/in
+    1 agreed/vbn
+    1 agriculture/nn
+    1 aid/nn
+    1 all/abn
+    1 allotted/vbn
+    1 allow/vb
+    1 allowances/nns
+    1 allowed/vbn
+    1 alternative/jj
+    1 ambiguous/jj
+    1 amendment/nn
+    1 amicable/jj
+    1 among/in
+    1 announced/vbd
+    1 any/dti
+    1 appointed/vbn
+    1 appointment/nn
+    1 appraisers/nns
+    1 approve/vb
+    1 approved/vbd
+    1 approved/vbn
+    1 areas/nns
+    1 armed/vbn
+    1 aside/rb
+    1 ask/vb
+    1 asked/vbd
+    1 asked/vbn
+    1 asking/vbg
+    1 assistance/nn
+    1 assistant/nn
+    1 attended/vbd
+    1 authorities/nns
+    1 automobile/nn
+    1 available/jj
+    1 awarding/nn
+    1 back/rb
+    1 back/vb
+    1 ballot/nn
+    1 battle/nn
+    1 became/vbd
+    1 become/vb
+    1 before/cs
+    1 begin/vb
+    1 believes/vbz
+    1 best/jjt
+    1 birth/nn
+    1 board/nn
+    1 body's/nn$
+    1 bonds/nns-hl
+    1 brief/jj
+    1 brought/vbd
+    1 burden/nn
+    1 calmest/jjt
+    1 can/md
+    1 career/nn
+    1 carry/vb
+    1 cent/nn
+    1 chambers/nns
+    1 charged/vbd
+    1 charged/vbn
+    1 child/nn
+    1 church/nn
+    1 clerical/jj
+    1 combined/vbn
+    1 committee/nn
+    1 compensation/nn
+    1 concessionaires/nns
+    1 conducted/vbn
+    1 congressional/jj
+    1 congressmen/nns
+    1 considering/in
+    1 consistently/rb
+    1 constitutional/jj
+    1 construction/nn
+    1 consulted/vbn
+    1 continue/vb
+    1 contracts/nns
+    1 coordinator/nn
+    1 cost/nn
+    1 costs/nns
+    1 council/nn
+    1 courses/nns
+    1 court's/nn$
+    1 courts/nns
+    1 criticisms/nns
+    1 crowd/nn
+    1 cruelty/nn
+    1 date/nn
+    1 daughter/nn
+    1 day/nn
+    1 days/nns
+    1 death/nn
+    1 defeated/vbd
+    1 delegation/nn
+    1 department/nn
+    1 deputies/nns
+    1 deputies/nns-hl
+    1 deserves/vbz
+    1 details/nns
+    1 determine/vb
+    1 directed/vbn
+    1 director/nn
+    1 disable/vb
+    1 disproportionate/jj
+    1 dispute/nn
+    1 dissents/nns
+    1 distribute/vb
+    1 distribution/nn
+    1 divorce/nn
+    1 do/do
+    1 doctor/nn
+    1 does/doz
+    1 done/vbn
+    1 drop/nn
+    1 duty/nn
+    1 each/dt
+    1 earlier/rbr
+    1 effect/nn
+    1 effected/vbn
+    1 effective/jj
+    1 efficiency/nn
+    1 elaborate/vb
+    1 eliminate/vb
+    1 emphasizing/vbg
+    1 employes/nns
+    1 encouragement/nn
+    1 end/nn
+    1 endorse/vb
+    1 entering/vbg
+    1 enthusiasm/nn
+    1 enthusiastic/jj
+    1 equitable/jj
+    1 establishment/nn
+    1 event/nn
+    1 every/at
+    1 evidence/nn
+    1 expended/vbn
+    1 expense/nn
+    1 experienced/vbn
+    1 expires/vbz
+    1 extern/nn
+    1 face/vb
+    1 fact/nn
+    1 fair/jj
+    1 farms/nns
+    1 feared/vbd
+    1 featured/vbn
+    1 feel/vb
+    1 fees/nns
+    1 filed/vbd
+    1 find/vb
+    1 fire/nn
+    1 first/rb
+    1 fit/jj
+    1 force/vb
+    1 formally/rb
+    1 former/ap
+    1 foster/jj
+    1 found/vbd
+    1 four/cd
+    1 friendly/jj
+    1 fully/rb
+    1 fund/nn
+    1 fund/nn-hl
+    1 further/rbr
+    1 future/jj
+    1 future/nn
+    1 generally/rb
+    1 getting/vbg
+    1 give/vb
+    1 given/vbn
+    1 go/vb
+    1 goes/vbz
+    1 good/jj
+    1 governments/nns
+    1 governor's/nn$
+    1 granted/vbn
+    1 greater/jjr
+    1 guardians/nns
+    1 gubernatorial/jj
+    1 gun/nn
+    1 handful/nn
+    1 handling/nn
+    1 hard-fought/jj
+    1 head/vb
+    1 heavily/rb
+    1 highways/nns
+    1 him/ppo
+    1 hold/vb
+    1 homes/nns
+    1 hopper/nn
+    1 hot/jj
+    1 hurdle/nn
+    1 implementation/nn
+    1 improving/vbg
+    1 inadequate/jj
+    1 incorporated/vbn
+    1 increased/vbn
+    1 influences/nns
+    1 insure/vb
+    1 intends/vbz
+    1 interim/nn
+    1 interlude/nn
+    1 intern/nn
+    1 inure/vb
+    1 investigate/vb
+    1 investigation/nn
+    1 issuance/nn
+    1 issued/vbn
+    1 item/nn
+    1 items/nns
+    1 itself/ppl
+    1 jail/nn
+    1 jail/nn-hl
+    1 juries/nns
+    1 just/rb
+    1 keeping/vbg
+    1 lacking/vbg
+    1 largest/jjt
+    1 last/ap
+    1 leading/vbg
+    1 learned/vbn
+    1 legislation/nn
+    1 less/ql
+    1 let/vbn
+    1 like/cs
+    1 like/vb
+    1 likely/rb
+    1 liquor/nn
+    1 listed/vbn
+    1 lived/vbn
+    1 local/jj
+    1 long/jj
+    1 made/vbd
+    1 made/vbn
+    1 major/jj
+    1 making/vbg
+    1 man/nn
+    1 management/nn
+    1 many/ap
+    1 marked/vbn
+    1 married/vbn
+    1 matters/nns
+    1 may/md
+    1 medical/jj
+    1 members/nns
+    1 mental/jj
+    1 mention/vb
+    1 midnight/nn
+    1 might/md
+    1 modernizing/vbg
+    1 most/ql
+    1 multi-million-dollar/jj
+    1 names/nns
+    1 near/rb
+    1 newly/rb
+    1 next/ap
+    1 no/rb
+    1 notice/nn
+    1 obtain/vb
+    1 occupation/nn
+    1 off/rp
+    1 offered/vbn
+    1 office/nn
+    1 offices/nns
+    1 official/nn
+    1 officials/nns
+    1 often/rb
+    1 old/jj
+    1 ones/nns
+    1 opened/vbd
+    1 operating/vbg
+    1 operation/nn
+    1 opposed/vbn
+    1 opposes/vbz
+    1 order/nn
+    1 ordinary's/nn$
+    1 ordinary/nn
+    1 outgoing/jj
+    1 outmoded/jj
+    1 outright/rb
+    1 over-all/jj
+    1 paid/vbn
+    1 party/nn
+    1 pass/vb
+    1 passed/vbd
+    1 passed/vbn
+    1 past/nn
+    1 pension/nn
+    1 periodic/jj
+    1 permit/nn
+    1 permit/vb
+    1 phone/nn
+    1 picking/vbg
+    1 pistol/nn
+    1 plans/nns
+    1 platform/nn
+    1 pointed/vbd
+    1 policeman/nn
+    1 policies/nns
+    1 populous/jj
+    1 possible/jj
+    1 post/nn
+    1 praise/nn
+    1 praised/vbd
+    1 precincts/nns
+    1 present/jj
+    1 presentments/nns
+    1 previous/jj
+    1 prices/nns
+    1 pricing/vbg
+    1 principal/nn
+    1 prison/nn
+    1 problem/nn
+    1 procedures/nns
+    1 produced/vbd
+    1 promise/nn
+    1 promised/vbd
+    1 property/nn
+    1 proportionate/jj
+    1 proposed/vbn
+    1 proposed/vbn-hl
+    1 protect/vb
+    1 protected/vbn-hl
+    1 provided/vbn
+    1 purchasing/vbg
+    1 purpose/nn
+    1 put/vbd
+    1 quickie/nn
+    1 quiet/jj
+    1 rally/nn
+    1 re-set/vb
+    1 read/vbn
+    1 ready/jj
+    1 real/ql
+    1 realize/vb
+    1 reasonable/jj
+    1 receive/vb
+    1 receives/vbz
+    1 recent/jj
+    1 recommendations/nns
+    1 recommended/vbn
+    1 reconsideration/nn
+    1 reconstruction/nn
+    1 reduce/vb
+    1 reelection/nn
+    1 registered/vbn
+    1 registration/nn
+    1 rejected/vbd
+    1 relations/nns
+    1 relative/jj
+    1 remedy/vb
+    1 repair/nn
+    1 repealed/vbn
+    1 reportedly/rb
+    1 requesting/vbg
+    1 research/nn
+    1 resignation/nn
+    1 responses/nns
+    1 result/nn
+    1 revised/vbn
+    1 revolving/vbg
+    1 revolving/vbg-hl
+    1 road/nn
+    1 run/vb
+    1 sales/nns
+    1 scheduled/vbd
+    1 see/vb
+    1 seek/vb
+    1 seen/vbn
+    1 servants/nns
+    1 serve/vb
+    1 services/nns
+    1 sessions/nns
+    1 set/vb
+    1 settlement/nn
+    1 sheriff/nn
+    1 shortly/rb
+    1 shot/vbd
+    1 sign/vb
+    1 signatures/nns
+    1 similar/jj
+    1 since/in
+    1 size/nn
+    1 smell/vb
+    1 smooth/jj
+    1 so/cs
+    1 so/ql
+    1 something/pn
+    1 son/nn
+    1 soon/rb
+    1 sought/vbn
+    1 speaker/nn
+    1 specifically/rb
+    1 starts/vbz
+    1 steps/nns
+    1 stood/vbd
+    1 strong/jj
+    1 studied/vbn
+    1 study/nn
+    1 subjected/vbn
+    1 support/nn
+    1 surveillance/nn
+    1 swipe/nn
+    1 taken/vbn
+    1 takes/vbz
+    1 tax/nn
+    1 taxpayers/nns
+    1 technical/jj
+    1 telephone/nn
+    1 term-end/nn
+    1 test/nn
+    1 test/vb
+    1 thanks/nns
+    1 threats/nns
+    1 three/cd
+    1 title/nn
+    1 together/rb
+    1 told/vbd
+    1 too/rb
+    1 top/jjs
+    1 topics/nns
+    1 tossed/vbd
+    1 toward/in
+    1 traditional/jj
+    1 traveled/vbn
+    1 unanimous/jj
+    1 undue/jj
+    1 unit/nn
+    1 unmeritorious/jj
+    1 upon/rb
+    1 urban/jj
+    1 validity/nn
+    1 veiled/vbn
+    1 very/ql
+    1 violence/nn
+    1 visit/nn
+    1 vote/vb
+    1 votes/nns
+    1 wait/vb
+    1 wanted/vbd
+    1 wards/nns
+    1 warned/vbn
+    1 warning/vbg
+    1 wasn't/bedz*
+    1 weekend/nn
+    1 well/ql
+    1 went/vbd
+    1 what/wdt
+    1 when/wrb
+    1 where/wrb
+    1 widespread/jj
+    1 wife's/nn$
+    1 wind/vb
+    1 won/vbn
+    1 word/nn
+    1 worked/vbn
+    1 years/nns
+    1 yet/rb
+    2 :/:
+    2 Allen/np
+    2 Atlanta's/np$
+    2 Atlanta/np
+    2 Authority/nn-tl
+    2 B./np
+    2 Blue/jj-tl
+    2 Caldwell/np
+    2 Committee/nn-tl
+    2 Court/nn-tl
+    2 Executive/jj-tl
+    2 Felix/np
+    2 Georgia/np
+    2 Georgia/np-tl
+    2 Griffin/np
+    2 He/pps
+    2 His/pp$
+    2 Ivan/np
+    2 Jan./np
+    2 Mayor/nn-tl
+    2 Miller/np-tl
+    2 Ordinary/nn-tl
+    2 Rep./nn-tl
+    2 Ridge/nn-tl
+    2 Roads/nns-tl
+    2 Rural/jj-tl
+    2 Senate/nn-tl
+    2 Sept./np
+    2 Sunday/nr
+    2 Superior/jj-tl
+    2 This/dt
+    2 Tuesday/nr
+    2 Welfare/nn-tl
+    2 When/wrb
+    2 William/np
+    2 additional/jj
+    2 adjournment/nn
+    2 administration/nn
+    2 age/nn
+    2 airport/nn
+    2 apparently/rb
+    2 attorney/nn
+    2 audience/nn
+    2 bit/nn
+    2 but/cc
+    2 candidates/nns
+    2 chairman/nn
+    2 charge/nn
+    2 citizens/nns
+    2 commented/vbd
+    2 controversy/nn
+    2 coolest/jjt
+    2 counties/nns
+    2 couple/nn
+    2 court/nn
+    2 departments/nns
+    2 did/dod
+    2 didn't/dod*
+    2 education/nn
+    2 employed/vbn
+    2 enabling/vbg
+    2 enter/vb
+    2 ever/rb
+    2 exception/nn
+    2 follow/vb
+    2 general/jj
+    2 got/vbd
+    2 governor/nn
+    2 held/vbn
+    2 himself/ppl
+    2 home/nr
+    2 however/wrb
+    2 interest/nn
+    2 issue/nn
+    2 jurors/nns
+    2 laws/nns
+    2 legislator/nn
+    2 listed/vbd
+    2 manner/nn
+    2 mayor/nn
+    2 meeting/nn
+    2 money/nn
+    2 none/pn
+    2 of/in-tl
+    2 offer/vb
+    2 operated/vbn
+    2 orderly/jj
+    2 other/ap
+    2 our/pp$
+    2 pay/nn
+    2 per/in
+    2 personnel/nns
+    2 petitions/nns
+    2 place/nn
+    2 place/vb
+    2 plan/nn
+    2 political/jj
+    2 portion/nn
+    2 priority/nn
+    2 privilege/nn
+    2 program/nn
+    2 provide/vb
+    2 public/jj
+    2 raises/nns
+    2 received/vbd
+    2 received/vbn
+    2 reports/nns
+    2 rescind/vb
+    2 resigned/vbd
+    2 roads/nns
+    2 saw/vbd
+    2 says/vbz
+    2 session/nn
+    2 source/nn
+    2 succeeded/vbn
+    2 such/jj
+    2 suit/nn
+    2 system/nn
+    2 take/vb
+    2 teacher/nn
+    2 than/in
+    2 that/wps
+    2 them/ppo
+    2 then/rb
+    2 there/rb
+    2 they/ppss
+    2 through/in
+    2 time/nn
+    2 took/vbd
+    2 trouble/nn
+    2 up/rp
+    2 urged/vbd
+    2 veteran/jj
+    2 voted/vbd
+    2 voting/vbg
+    2 we/ppss
+    2 welfare/nn
+    2 were/bed
+    2 wife/nn
+    2 work/nn
+    2 year/nn
+    3 (/(
+    3 )/)
+    3 2/cd
+    3 A/at
+    3 Atlanta/np-tl
+    3 Barber/np
+    3 Bush/np
+    3 City/nn-tl
+    3 Davis/np
+    3 Gov./nn-tl
+    3 I/ppss
+    3 Jr./np
+    3 action/nn
+    3 added/vbd
+    3 after/cs
+    3 also/rb
+    3 anonymous/jj
+    3 bond/nn
+    3 both/abx
+    3 calls/nns
+    3 elected/vbn
+    3 first/od
+    3 grand/jj
+    3 had/hvd
+    3 highway/nn
+    3 increase/nn
+    3 into/in
+    3 irregularities/nns
+    3 issue/vb
+    3 it/ppo
+    3 law/nn
+    3 make/vb
+    3 mayor's/nn$
+    3 more/ap
+    3 must/md
+    3 no/at
+    3 number/nn
+    3 out/rp
+    3 polls/nns
+    3 practices/nns
+    3 recommended/vbd
+    3 superintendent/nn
+    3 term/nn
+    3 two/cd
+    3 under/in
+    3 vote/nn
+    3 whether/cs
+    3 work/vb
+    3 worth/nn
+    4 --/--
+    4 1/cd
+    4 Friday/nr
+    4 Fulton/np
+    4 Georgia's/np$
+    4 Highway/nn-tl
+    4 Legislature/nn-tl
+    4 Vandiver/np
+    4 being/beg
+    4 candidate/nn
+    4 expected/vbn
+    4 federal/jj
+    4 from/in
+    4 legislators/nns
+    4 night/nn
+    4 one/cd
+    4 or/cc
+    4 petition/nn
+    4 primary/nn
+    4 race/nn
+    4 rural/jj
+    4 voters/nns
+    5 Hartsfield/np
+    5 House/nn-tl
+    5 Monday/nr
+    5 Pelham/np
+    5 Republicans/nps
+    5 Williams/np
+    5 are/ber
+    5 bonds/nns
+    5 campaign/nn
+    5 county/nn
+    5 have/hv
+    5 he/pps
+    5 its/pp$
+    5 million/cd
+    5 school/nn
+    5 these/dts
+    6 It/pps
+    6 State/nn-tl
+    6 an/at
+    6 city/nn
+    6 new/jj
+    6 not/*
+    6 should/md
+    6 some/dti
+    6 state/nn
+    6 who/wps
+    6 with/in
+    7 been/ben
+    7 this/dt
+    8 Department/nn-tl
+    8 funds/nns
+    8 there/ex
+    9 at/in
+    9 on/in
+    9 resolution/nn
+    9 would/md
+   10 County/nn-tl
+   10 Fulton/np-tl
+   10 by/in
+   10 has/hvz
+   10 his/pp$
+   10 it/pps
+   12 as/cs
+   12 is/bez
+   13 which/wdt
+   14 election/nn
+   14 to/in
+   14 will/md
+   17 jury/nn
+   18 was/bedz
+   21 be/be
+   22 for/in
+   24 said/vbd
+   26 that/cs
+   27 The/at
+   33 ''/''
+   34 ``/``
+   39 in/in
+   40 and/cc
+   41 to/to
+   50 a/at
+   63 of/in
+   87 ,/,
+   88 ./.
+  127 the/at
+WORDSTOTAG $10                  {'nns'}
+WORDSTOTAG $100                 {'nns'}
+WORDSTOTAG $3                   {'nns'}
+WORDSTOTAG $30                  {'nns'}
+WORDSTOTAG $4                   {'nns'}
+WORDSTOTAG $50                  {'nns'}
+WORDSTOTAG ''                   {"''"}
+WORDSTOTAG (                    {'('}
+WORDSTOTAG )                    {')'}
+WORDSTOTAG ,                    {','}
+WORDSTOTAG --                   {'--'}
+WORDSTOTAG .                    {'.'}
+WORDSTOTAG 1                    {'cd'}
+WORDSTOTAG 1,119                {'cd'}
+WORDSTOTAG 13                   {'cd'}
+WORDSTOTAG 13th                 {'od'}
+WORDSTOTAG 18                   {'cd'}
+WORDSTOTAG 1913                 {'cd'}
+WORDSTOTAG 1923                 {'cd'}
+WORDSTOTAG 1937                 {'cd'}
+WORDSTOTAG 1958                 {'cd'}
+WORDSTOTAG 1961                 {'cd'}
+WORDSTOTAG 1962                 {'cd'}
+WORDSTOTAG 2                    {'cd'}
+WORDSTOTAG 29-5                 {'cd'}
+WORDSTOTAG 402                  {'cd'}
+WORDSTOTAG 637                  {'cd'}
+WORDSTOTAG 71                   {'cd'}
+WORDSTOTAG 74                   {'cd'}
+WORDSTOTAG 8                    {'cd'}
+WORDSTOTAG 87-31                {'cd'}
+WORDSTOTAG :                    {':'}
+WORDSTOTAG A                    {'at-hl', 'at'}
+WORDSTOTAG After                {'in'}
+WORDSTOTAG Aj                   {'nn'}
+WORDSTOTAG Ala.                 {'np'}
+WORDSTOTAG Allen                {'np'}
+WORDSTOTAG Alpharetta           {'np'}
+WORDSTOTAG As                   {'in'}
+WORDSTOTAG Ask                  {'vb-hl'}
+WORDSTOTAG Association          {'nn-tl'}
+WORDSTOTAG Atlanta              {'np-tl', 'np'}
+WORDSTOTAG Atlanta's            {'np$'}
+WORDSTOTAG Attorneys            {'nns'}
+WORDSTOTAG Aug.                 {'np'}
+WORDSTOTAG Authority            {'nn-tl'}
+WORDSTOTAG B.                   {'np'}
+WORDSTOTAG Bar                  {'nn-tl'}
+WORDSTOTAG Barber               {'np'}
+WORDSTOTAG Before               {'in'}
+WORDSTOTAG Being                {'beg'}
+WORDSTOTAG Bellwood             {'np'}
+WORDSTOTAG Berry                {'np'}
+WORDSTOTAG Blue                 {'jj-tl'}
+WORDSTOTAG Board                {'nn-tl'}
+WORDSTOTAG Bowden               {'np'}
+WORDSTOTAG Bush                 {'np'}
+WORDSTOTAG But                  {'cc'}
+WORDSTOTAG Byrd                 {'np'}
+WORDSTOTAG Byrd's               {'np$'}
+WORDSTOTAG Caldwell             {'np'}
+WORDSTOTAG Caldwell's           {'np$'}
+WORDSTOTAG Callan               {'np'}
+WORDSTOTAG Carey                {'np'}
+WORDSTOTAG Chairman             {'nn-tl'}
+WORDSTOTAG Cheshire             {'np'}
+WORDSTOTAG City                 {'nn-tl'}
+WORDSTOTAG Colquitt             {'np-tl', 'np-hl'}
+WORDSTOTAG Commerce             {'nn-tl'}
+WORDSTOTAG Commissioner's       {'nn$-tl'}
+WORDSTOTAG Committee            {'nn-tl'}
+WORDSTOTAG Congress             {'np'}
+WORDSTOTAG Constitution         {'nn-tl'}
+WORDSTOTAG Construction         {'nn-hl'}
+WORDSTOTAG County               {'nn-tl'}
+WORDSTOTAG Court                {'nn-tl'}
+WORDSTOTAG D.                   {'np'}
+WORDSTOTAG Davis                {'np'}
+WORDSTOTAG Democratic           {'jj-tl'}
+WORDSTOTAG Department           {'nn-tl'}
+WORDSTOTAG Department's         {'nn$-tl'}
+WORDSTOTAG Despite              {'in'}
+WORDSTOTAG Dorsey               {'np'}
+WORDSTOTAG During               {'in'}
+WORDSTOTAG Durwood              {'np'}
+WORDSTOTAG E.                   {'np'}
+WORDSTOTAG Education            {'nn-tl'}
+WORDSTOTAG Everything           {'pn'}
+WORDSTOTAG Executive            {'jj-tl'}
+WORDSTOTAG Failure              {'nn'}
+WORDSTOTAG Felix                {'np'}
+WORDSTOTAG Five                 {'cd'}
+WORDSTOTAG Four                 {'cd'}
+WORDSTOTAG Friday               {'nr'}
+WORDSTOTAG Fulton               {'np-tl', 'np'}
+WORDSTOTAG GOP                  {'nn'}
+WORDSTOTAG Gainesville          {'np'}
+WORDSTOTAG Garland              {'np'}
+WORDSTOTAG George               {'np'}
+WORDSTOTAG Georgia              {'np', 'np-tl'}
+WORDSTOTAG Georgia's            {'np$'}
+WORDSTOTAG Gov.                 {'nn-tl'}
+WORDSTOTAG Grady                {'np-tl'}
+WORDSTOTAG Grand                {'jj-tl'}
+WORDSTOTAG Griffin              {'np'}
+WORDSTOTAG Harry                {'np'}
+WORDSTOTAG Hartsfield           {'np'}
+WORDSTOTAG He                   {'pps'}
+WORDSTOTAG Health               {'nn-tl'}
+WORDSTOTAG Henry                {'np'}
+WORDSTOTAG Highway              {'nn-tl'}
+WORDSTOTAG His                  {'pp$'}
+WORDSTOTAG Hospital             {'nn-tl'}
+WORDSTOTAG House                {'nn-tl'}
+WORDSTOTAG However              {'wrb'}
+WORDSTOTAG I                    {'ppss'}
+WORDSTOTAG Implementation       {'nn'}
+WORDSTOTAG In                   {'in'}
+WORDSTOTAG It                   {'pps'}
+WORDSTOTAG Ivan                 {'np'}
+WORDSTOTAG J.                   {'np'}
+WORDSTOTAG Jackson              {'np-tl'}
+WORDSTOTAG Jail                 {'nn-tl'}
+WORDSTOTAG James                {'np'}
+WORDSTOTAG Jan.                 {'np'}
+WORDSTOTAG John                 {'np'}
+WORDSTOTAG Jr.                  {'np'}
+WORDSTOTAG Judge                {'nn-tl'}
+WORDSTOTAG Jury                 {'nn-tl'}
+WORDSTOTAG L.                   {'np'}
+WORDSTOTAG Ledford              {'np'}
+WORDSTOTAG Legislature          {'nn-tl'}
+WORDSTOTAG Lt.                  {'nn-tl'}
+WORDSTOTAG M.                   {'np'}
+WORDSTOTAG Mac                  {'np'}
+WORDSTOTAG Many                 {'ap'}
+WORDSTOTAG March                {'np'}
+WORDSTOTAG Marvin               {'np'}
+WORDSTOTAG Mayor                {'nn-tl'}
+WORDSTOTAG Mayor-nominate       {'nn-tl'}
+WORDSTOTAG Meanwhile            {'rb'}
+WORDSTOTAG Merger               {'nn-hl'}
+WORDSTOTAG Miller               {'np-tl'}
+WORDSTOTAG Monday               {'nr'}
+WORDSTOTAG Mrs.                 {'np'}
+WORDSTOTAG Nevertheless         {'rb'}
+WORDSTOTAG November             {'np'}
+WORDSTOTAG Office               {'nn-tl'}
+WORDSTOTAG On                   {'in'}
+WORDSTOTAG Only                 {'rb'}
+WORDSTOTAG Opelika              {'np'}
+WORDSTOTAG Ordinary             {'nn-tl'}
+WORDSTOTAG P.                   {'np'}
+WORDSTOTAG Party                {'nn-tl'}
+WORDSTOTAG Pearl                {'np'}
+WORDSTOTAG Pelham               {'np'}
+WORDSTOTAG Police               {'nns-tl'}
+WORDSTOTAG Policeman            {'nn-tl'}
+WORDSTOTAG Purchasing           {'vbg-tl'}
+WORDSTOTAG Pye                  {'np'}
+WORDSTOTAG Rd.                  {'nn-tl'}
+WORDSTOTAG Regarding            {'in'}
+WORDSTOTAG Rep.                 {'nn-tl'}
+WORDSTOTAG Republicans          {'nps'}
+WORDSTOTAG Ridge                {'nn-tl'}
+WORDSTOTAG Roads                {'nns-tl'}
+WORDSTOTAG Rob                  {'np'}
+WORDSTOTAG Robert               {'np'}
+WORDSTOTAG Rural                {'jj-tl'}
+WORDSTOTAG Sam                  {'np'}
+WORDSTOTAG Saturday's           {'nr$'}
+WORDSTOTAG Savannah             {'np'}
+WORDSTOTAG Schley               {'np'}
+WORDSTOTAG Sen.                 {'nn-tl'}
+WORDSTOTAG Senate               {'nn-tl'}
+WORDSTOTAG Sept.                {'np'}
+WORDSTOTAG September-October    {'np'}
+WORDSTOTAG Sheriff              {'nn-tl'}
+WORDSTOTAG Snodgrass            {'np'}
+WORDSTOTAG State                {'nn-tl'}
+WORDSTOTAG Sunday               {'nr'}
+WORDSTOTAG Superior             {'jj-tl'}
+WORDSTOTAG Tabb                 {'np'}
+WORDSTOTAG Tax                  {'nn-tl'}
+WORDSTOTAG Texas                {'np'}
+WORDSTOTAG The                  {'at-tl', 'at'}
+WORDSTOTAG There                {'ex'}
+WORDSTOTAG These                {'dts'}
+WORDSTOTAG They                 {'ppss'}
+WORDSTOTAG This                 {'dt'}
+WORDSTOTAG Tom                  {'np'}
+WORDSTOTAG Tower                {'np'}
+WORDSTOTAG Tuesday              {'nr'}
+WORDSTOTAG Vandiver             {'np'}
+WORDSTOTAG W.                   {'np'}
+WORDSTOTAG Wards                {'nns-hl'}
+WORDSTOTAG Washington           {'np'}
+WORDSTOTAG Wednesday            {'nr'}
+WORDSTOTAG Welfare              {'nn-tl'}
+WORDSTOTAG When                 {'wrb'}
+WORDSTOTAG While                {'cs'}
+WORDSTOTAG William              {'np'}
+WORDSTOTAG Williams             {'np'}
+WORDSTOTAG ``                   {'``'}
+WORDSTOTAG a                    {'at'}
+WORDSTOTAG about                {'in'}
+WORDSTOTAG accepted             {'vbn'}
+WORDSTOTAG according            {'in'}
+WORDSTOTAG achieve              {'vb'}
+WORDSTOTAG act                  {'nn', 'vb'}
+WORDSTOTAG action               {'nn'}
+WORDSTOTAG actions              {'nns'}
+WORDSTOTAG added                {'vbd'}
+WORDSTOTAG additional           {'jj'}
+WORDSTOTAG adjournment          {'nn'}
+WORDSTOTAG adjustments          {'nns'}
+WORDSTOTAG administration       {'nn'}
+WORDSTOTAG administrators       {'nns'}
+WORDSTOTAG after                {'cs'}
+WORDSTOTAG afternoon            {'nn'}
+WORDSTOTAG against              {'in'}
+WORDSTOTAG age                  {'nn'}
+WORDSTOTAG agreed               {'vbn'}
+WORDSTOTAG agriculture          {'nn'}
+WORDSTOTAG aid                  {'nn'}
+WORDSTOTAG airport              {'nn'}
+WORDSTOTAG all                  {'abn'}
+WORDSTOTAG allotted             {'vbn'}
+WORDSTOTAG allow                {'vb'}
+WORDSTOTAG allowances           {'nns'}
+WORDSTOTAG allowed              {'vbn'}
+WORDSTOTAG also                 {'rb'}
+WORDSTOTAG alternative          {'jj'}
+WORDSTOTAG ambiguous            {'jj'}
+WORDSTOTAG amendment            {'nn'}
+WORDSTOTAG amicable             {'jj'}
+WORDSTOTAG among                {'in'}
+WORDSTOTAG an                   {'at'}
+WORDSTOTAG and                  {'cc'}
+WORDSTOTAG announced            {'vbd'}
+WORDSTOTAG anonymous            {'jj'}
+WORDSTOTAG any                  {'dti'}
+WORDSTOTAG apparently           {'rb'}
+WORDSTOTAG appointed            {'vbn'}
+WORDSTOTAG appointment          {'nn'}
+WORDSTOTAG appraisers           {'nns'}
+WORDSTOTAG approve              {'vb'}
+WORDSTOTAG approved             {'vbn', 'vbd'}
+WORDSTOTAG are                  {'ber'}
+WORDSTOTAG areas                {'nns'}
+WORDSTOTAG armed                {'vbn'}
+WORDSTOTAG as                   {'cs'}
+WORDSTOTAG aside                {'rb'}
+WORDSTOTAG ask                  {'vb'}
+WORDSTOTAG asked                {'vbn', 'vbd'}
+WORDSTOTAG asking               {'vbg'}
+WORDSTOTAG assistance           {'nn'}
+WORDSTOTAG assistant            {'nn'}
+WORDSTOTAG at                   {'in'}
+WORDSTOTAG attended             {'vbd'}
+WORDSTOTAG attorney             {'nn'}
+WORDSTOTAG audience             {'nn'}
+WORDSTOTAG authorities          {'nns'}
+WORDSTOTAG automobile           {'nn'}
+WORDSTOTAG available            {'jj'}
+WORDSTOTAG awarding             {'nn'}
+WORDSTOTAG back                 {'vb', 'rb'}
+WORDSTOTAG ballot               {'nn'}
+WORDSTOTAG battle               {'nn'}
+WORDSTOTAG be                   {'be'}
+WORDSTOTAG became               {'vbd'}
+WORDSTOTAG become               {'vb'}
+WORDSTOTAG been                 {'ben'}
+WORDSTOTAG before               {'cs'}
+WORDSTOTAG begin                {'vb'}
+WORDSTOTAG being                {'beg'}
+WORDSTOTAG believes             {'vbz'}
+WORDSTOTAG best                 {'jjt'}
+WORDSTOTAG birth                {'nn'}
+WORDSTOTAG bit                  {'nn'}
+WORDSTOTAG board                {'nn'}
+WORDSTOTAG body's               {'nn$'}
+WORDSTOTAG bond                 {'nn'}
+WORDSTOTAG bonds                {'nns', 'nns-hl'}
+WORDSTOTAG both                 {'abx'}
+WORDSTOTAG brief                {'jj'}
+WORDSTOTAG brought              {'vbd'}
+WORDSTOTAG burden               {'nn'}
+WORDSTOTAG but                  {'cc'}
+WORDSTOTAG by                   {'in'}
+WORDSTOTAG calls                {'nns'}
+WORDSTOTAG calmest              {'jjt'}
+WORDSTOTAG campaign             {'nn'}
+WORDSTOTAG can                  {'md'}
+WORDSTOTAG candidate            {'nn'}
+WORDSTOTAG candidates           {'nns'}
+WORDSTOTAG career               {'nn'}
+WORDSTOTAG carry                {'vb'}
+WORDSTOTAG cent                 {'nn'}
+WORDSTOTAG chairman             {'nn'}
+WORDSTOTAG chambers             {'nns'}
+WORDSTOTAG charge               {'nn'}
+WORDSTOTAG charged              {'vbn', 'vbd'}
+WORDSTOTAG child                {'nn'}
+WORDSTOTAG church               {'nn'}
+WORDSTOTAG citizens             {'nns'}
+WORDSTOTAG city                 {'nn'}
+WORDSTOTAG clerical             {'jj'}
+WORDSTOTAG combined             {'vbn'}
+WORDSTOTAG commented            {'vbd'}
+WORDSTOTAG committee            {'nn'}
+WORDSTOTAG compensation         {'nn'}
+WORDSTOTAG concessionaires      {'nns'}
+WORDSTOTAG conducted            {'vbn'}
+WORDSTOTAG congressional        {'jj'}
+WORDSTOTAG congressmen          {'nns'}
+WORDSTOTAG considering          {'in'}
+WORDSTOTAG consistently         {'rb'}
+WORDSTOTAG constitutional       {'jj'}
+WORDSTOTAG construction         {'nn'}
+WORDSTOTAG consulted            {'vbn'}
+WORDSTOTAG continue             {'vb'}
+WORDSTOTAG contracts            {'nns'}
+WORDSTOTAG controversy          {'nn'}
+WORDSTOTAG coolest              {'jjt'}
+WORDSTOTAG coordinator          {'nn'}
+WORDSTOTAG cost                 {'nn'}
+WORDSTOTAG costs                {'nns'}
+WORDSTOTAG council              {'nn'}
+WORDSTOTAG counties             {'nns'}
+WORDSTOTAG county               {'nn'}
+WORDSTOTAG couple               {'nn'}
+WORDSTOTAG courses              {'nns'}
+WORDSTOTAG court                {'nn'}
+WORDSTOTAG court's              {'nn$'}
+WORDSTOTAG courts               {'nns'}
+WORDSTOTAG criticisms           {'nns'}
+WORDSTOTAG crowd                {'nn'}
+WORDSTOTAG cruelty              {'nn'}
+WORDSTOTAG date                 {'nn'}
+WORDSTOTAG daughter             {'nn'}
+WORDSTOTAG day                  {'nn'}
+WORDSTOTAG days                 {'nns'}
+WORDSTOTAG death                {'nn'}
+WORDSTOTAG defeated             {'vbd'}
+WORDSTOTAG delegation           {'nn'}
+WORDSTOTAG department           {'nn'}
+WORDSTOTAG departments          {'nns'}
+WORDSTOTAG deputies             {'nns', 'nns-hl'}
+WORDSTOTAG deserves             {'vbz'}
+WORDSTOTAG details              {'nns'}
+WORDSTOTAG determine            {'vb'}
+WORDSTOTAG did                  {'dod'}
+WORDSTOTAG didn't               {'dod*'}
+WORDSTOTAG directed             {'vbn'}
+WORDSTOTAG director             {'nn'}
+WORDSTOTAG disable              {'vb'}
+WORDSTOTAG disproportionate     {'jj'}
+WORDSTOTAG dispute              {'nn'}
+WORDSTOTAG dissents             {'nns'}
+WORDSTOTAG distribute           {'vb'}
+WORDSTOTAG distribution         {'nn'}
+WORDSTOTAG divorce              {'nn'}
+WORDSTOTAG do                   {'do'}
+WORDSTOTAG doctor               {'nn'}
+WORDSTOTAG does                 {'doz'}
+WORDSTOTAG done                 {'vbn'}
+WORDSTOTAG drop                 {'nn'}
+WORDSTOTAG duty                 {'nn'}
+WORDSTOTAG each                 {'dt'}
+WORDSTOTAG earlier              {'rbr'}
+WORDSTOTAG education            {'nn'}
+WORDSTOTAG effect               {'nn'}
+WORDSTOTAG effected             {'vbn'}
+WORDSTOTAG effective            {'jj'}
+WORDSTOTAG efficiency           {'nn'}
+WORDSTOTAG elaborate            {'vb'}
+WORDSTOTAG elected              {'vbn'}
+WORDSTOTAG election             {'nn'}
+WORDSTOTAG eliminate            {'vb'}
+WORDSTOTAG emphasizing          {'vbg'}
+WORDSTOTAG employed             {'vbn'}
+WORDSTOTAG employes             {'nns'}
+WORDSTOTAG enabling             {'vbg'}
+WORDSTOTAG encouragement        {'nn'}
+WORDSTOTAG end                  {'nn'}
+WORDSTOTAG endorse              {'vb'}
+WORDSTOTAG enter                {'vb'}
+WORDSTOTAG entering             {'vbg'}
+WORDSTOTAG enthusiasm           {'nn'}
+WORDSTOTAG enthusiastic         {'jj'}
+WORDSTOTAG equitable            {'jj'}
+WORDSTOTAG establishment        {'nn'}
+WORDSTOTAG event                {'nn'}
+WORDSTOTAG ever                 {'rb'}
+WORDSTOTAG every                {'at'}
+WORDSTOTAG evidence             {'nn'}
+WORDSTOTAG exception            {'nn'}
+WORDSTOTAG expected             {'vbn'}
+WORDSTOTAG expended             {'vbn'}
+WORDSTOTAG expense              {'nn'}
+WORDSTOTAG experienced          {'vbn'}
+WORDSTOTAG expires              {'vbz'}
+WORDSTOTAG extern               {'nn'}
+WORDSTOTAG face                 {'vb'}
+WORDSTOTAG fact                 {'nn'}
+WORDSTOTAG fair                 {'jj'}
+WORDSTOTAG farms                {'nns'}
+WORDSTOTAG feared               {'vbd'}
+WORDSTOTAG featured             {'vbn'}
+WORDSTOTAG federal              {'jj'}
+WORDSTOTAG feel                 {'vb'}
+WORDSTOTAG fees                 {'nns'}
+WORDSTOTAG filed                {'vbd'}
+WORDSTOTAG find                 {'vb'}
+WORDSTOTAG fire                 {'nn'}
+WORDSTOTAG first                {'od', 'rb'}
+WORDSTOTAG fit                  {'jj'}
+WORDSTOTAG follow               {'vb'}
+WORDSTOTAG for                  {'in'}
+WORDSTOTAG force                {'vb'}
+WORDSTOTAG formally             {'rb'}
+WORDSTOTAG former               {'ap'}
+WORDSTOTAG foster               {'jj'}
+WORDSTOTAG found                {'vbd'}
+WORDSTOTAG four                 {'cd'}
+WORDSTOTAG friendly             {'jj'}
+WORDSTOTAG from                 {'in'}
+WORDSTOTAG fully                {'rb'}
+WORDSTOTAG fund                 {'nn', 'nn-hl'}
+WORDSTOTAG funds                {'nns'}
+WORDSTOTAG further              {'rbr'}
+WORDSTOTAG future               {'jj', 'nn'}
+WORDSTOTAG general              {'jj'}
+WORDSTOTAG generally            {'rb'}
+WORDSTOTAG getting              {'vbg'}
+WORDSTOTAG give                 {'vb'}
+WORDSTOTAG given                {'vbn'}
+WORDSTOTAG go                   {'vb'}
+WORDSTOTAG goes                 {'vbz'}
+WORDSTOTAG good                 {'jj'}
+WORDSTOTAG got                  {'vbd'}
+WORDSTOTAG governments          {'nns'}
+WORDSTOTAG governor             {'nn'}
+WORDSTOTAG governor's           {'nn$'}
+WORDSTOTAG grand                {'jj'}
+WORDSTOTAG granted              {'vbn'}
+WORDSTOTAG greater              {'jjr'}
+WORDSTOTAG guardians            {'nns'}
+WORDSTOTAG gubernatorial        {'jj'}
+WORDSTOTAG gun                  {'nn'}
+WORDSTOTAG had                  {'hvd'}
+WORDSTOTAG handful              {'nn'}
+WORDSTOTAG handling             {'nn'}
+WORDSTOTAG hard-fought          {'jj'}
+WORDSTOTAG has                  {'hvz'}
+WORDSTOTAG have                 {'hv'}
+WORDSTOTAG he                   {'pps'}
+WORDSTOTAG head                 {'vb'}
+WORDSTOTAG heavily              {'rb'}
+WORDSTOTAG held                 {'vbn'}
+WORDSTOTAG highway              {'nn'}
+WORDSTOTAG highways             {'nns'}
+WORDSTOTAG him                  {'ppo'}
+WORDSTOTAG himself              {'ppl'}
+WORDSTOTAG his                  {'pp$'}
+WORDSTOTAG hold                 {'vb'}
+WORDSTOTAG home                 {'nr'}
+WORDSTOTAG homes                {'nns'}
+WORDSTOTAG hopper               {'nn'}
+WORDSTOTAG hot                  {'jj'}
+WORDSTOTAG however              {'wrb'}
+WORDSTOTAG hurdle               {'nn'}
+WORDSTOTAG implementation       {'nn'}
+WORDSTOTAG improving            {'vbg'}
+WORDSTOTAG in                   {'in'}
+WORDSTOTAG inadequate           {'jj'}
+WORDSTOTAG incorporated         {'vbn'}
+WORDSTOTAG increase             {'nn'}
+WORDSTOTAG increased            {'vbn'}
+WORDSTOTAG influences           {'nns'}
+WORDSTOTAG insure               {'vb'}
+WORDSTOTAG intends              {'vbz'}
+WORDSTOTAG interest             {'nn'}
+WORDSTOTAG interim              {'nn'}
+WORDSTOTAG interlude            {'nn'}
+WORDSTOTAG intern               {'nn'}
+WORDSTOTAG into                 {'in'}
+WORDSTOTAG inure                {'vb'}
+WORDSTOTAG investigate          {'vb'}
+WORDSTOTAG investigation        {'nn'}
+WORDSTOTAG irregularities       {'nns'}
+WORDSTOTAG is                   {'bez'}
+WORDSTOTAG issuance             {'nn'}
+WORDSTOTAG issue                {'nn', 'vb'}
+WORDSTOTAG issued               {'vbn'}
+WORDSTOTAG it                   {'ppo', 'pps'}
+WORDSTOTAG item                 {'nn'}
+WORDSTOTAG items                {'nns'}
+WORDSTOTAG its                  {'pp$'}
+WORDSTOTAG itself               {'ppl'}
+WORDSTOTAG jail                 {'nn', 'nn-hl'}
+WORDSTOTAG juries               {'nns'}
+WORDSTOTAG jurors               {'nns'}
+WORDSTOTAG jury                 {'nn'}
+WORDSTOTAG just                 {'rb'}
+WORDSTOTAG keeping              {'vbg'}
+WORDSTOTAG lacking              {'vbg'}
+WORDSTOTAG largest              {'jjt'}
+WORDSTOTAG last                 {'ap'}
+WORDSTOTAG law                  {'nn'}
+WORDSTOTAG laws                 {'nns'}
+WORDSTOTAG leading              {'vbg'}
+WORDSTOTAG learned              {'vbn'}
+WORDSTOTAG legislation          {'nn'}
+WORDSTOTAG legislator           {'nn'}
+WORDSTOTAG legislators          {'nns'}
+WORDSTOTAG less                 {'ql'}
+WORDSTOTAG let                  {'vbn'}
+WORDSTOTAG like                 {'cs', 'vb'}
+WORDSTOTAG likely               {'rb'}
+WORDSTOTAG liquor               {'nn'}
+WORDSTOTAG listed               {'vbn', 'vbd'}
+WORDSTOTAG lived                {'vbn'}
+WORDSTOTAG local                {'jj'}
+WORDSTOTAG long                 {'jj'}
+WORDSTOTAG made                 {'vbn', 'vbd'}
+WORDSTOTAG major                {'jj'}
+WORDSTOTAG make                 {'vb'}
+WORDSTOTAG making               {'vbg'}
+WORDSTOTAG man                  {'nn'}
+WORDSTOTAG management           {'nn'}
+WORDSTOTAG manner               {'nn'}
+WORDSTOTAG many                 {'ap'}
+WORDSTOTAG marked               {'vbn'}
+WORDSTOTAG married              {'vbn'}
+WORDSTOTAG matters              {'nns'}
+WORDSTOTAG may                  {'md'}
+WORDSTOTAG mayor                {'nn'}
+WORDSTOTAG mayor's              {'nn$'}
+WORDSTOTAG medical              {'jj'}
+WORDSTOTAG meeting              {'nn'}
+WORDSTOTAG members              {'nns'}
+WORDSTOTAG mental               {'jj'}
+WORDSTOTAG mention              {'vb'}
+WORDSTOTAG midnight             {'nn'}
+WORDSTOTAG might                {'md'}
+WORDSTOTAG million              {'cd'}
+WORDSTOTAG modernizing          {'vbg'}
+WORDSTOTAG money                {'nn'}
+WORDSTOTAG more                 {'ap'}
+WORDSTOTAG most                 {'ql'}
+WORDSTOTAG multi-million-dollar {'jj'}
+WORDSTOTAG must                 {'md'}
+WORDSTOTAG names                {'nns'}
+WORDSTOTAG near                 {'rb'}
+WORDSTOTAG new                  {'jj'}
+WORDSTOTAG newly                {'rb'}
+WORDSTOTAG next                 {'ap'}
+WORDSTOTAG night                {'nn'}
+WORDSTOTAG no                   {'rb', 'at'}
+WORDSTOTAG none                 {'pn'}
+WORDSTOTAG not                  {'*'}
+WORDSTOTAG notice               {'nn'}
+WORDSTOTAG number               {'nn'}
+WORDSTOTAG obtain               {'vb'}
+WORDSTOTAG occupation           {'nn'}
+WORDSTOTAG of                   {'in-tl', 'in'}
+WORDSTOTAG off                  {'rp'}
+WORDSTOTAG offer                {'vb'}
+WORDSTOTAG offered              {'vbn'}
+WORDSTOTAG office               {'nn'}
+WORDSTOTAG offices              {'nns'}
+WORDSTOTAG official             {'nn'}
+WORDSTOTAG officials            {'nns'}
+WORDSTOTAG often                {'rb'}
+WORDSTOTAG old                  {'jj'}
+WORDSTOTAG on                   {'in'}
+WORDSTOTAG one                  {'cd'}
+WORDSTOTAG ones                 {'nns'}
+WORDSTOTAG opened               {'vbd'}
+WORDSTOTAG operated             {'vbn'}
+WORDSTOTAG operating            {'vbg'}
+WORDSTOTAG operation            {'nn'}
+WORDSTOTAG opposed              {'vbn'}
+WORDSTOTAG opposes              {'vbz'}
+WORDSTOTAG or                   {'cc'}
+WORDSTOTAG order                {'nn'}
+WORDSTOTAG orderly              {'jj'}
+WORDSTOTAG ordinary             {'nn'}
+WORDSTOTAG ordinary's           {'nn$'}
+WORDSTOTAG other                {'ap'}
+WORDSTOTAG our                  {'pp$'}
+WORDSTOTAG out                  {'rp'}
+WORDSTOTAG outgoing             {'jj'}
+WORDSTOTAG outmoded             {'jj'}
+WORDSTOTAG outright             {'rb'}
+WORDSTOTAG over-all             {'jj'}
+WORDSTOTAG paid                 {'vbn'}
+WORDSTOTAG party                {'nn'}
+WORDSTOTAG pass                 {'vb'}
+WORDSTOTAG passed               {'vbn', 'vbd'}
+WORDSTOTAG past                 {'nn'}
+WORDSTOTAG pay                  {'nn'}
+WORDSTOTAG pension              {'nn'}
+WORDSTOTAG per                  {'in'}
+WORDSTOTAG periodic             {'jj'}
+WORDSTOTAG permit               {'nn', 'vb'}
+WORDSTOTAG personnel            {'nns'}
+WORDSTOTAG petition             {'nn'}
+WORDSTOTAG petitions            {'nns'}
+WORDSTOTAG phone                {'nn'}
+WORDSTOTAG picking              {'vbg'}
+WORDSTOTAG pistol               {'nn'}
+WORDSTOTAG place                {'nn', 'vb'}
+WORDSTOTAG plan                 {'nn'}
+WORDSTOTAG plans                {'nns'}
+WORDSTOTAG platform             {'nn'}
+WORDSTOTAG pointed              {'vbd'}
+WORDSTOTAG policeman            {'nn'}
+WORDSTOTAG policies             {'nns'}
+WORDSTOTAG political            {'jj'}
+WORDSTOTAG polls                {'nns'}
+WORDSTOTAG populous             {'jj'}
+WORDSTOTAG portion              {'nn'}
+WORDSTOTAG possible             {'jj'}
+WORDSTOTAG post                 {'nn'}
+WORDSTOTAG practices            {'nns'}
+WORDSTOTAG praise               {'nn'}
+WORDSTOTAG praised              {'vbd'}
+WORDSTOTAG precincts            {'nns'}
+WORDSTOTAG present              {'jj'}
+WORDSTOTAG presentments         {'nns'}
+WORDSTOTAG previous             {'jj'}
+WORDSTOTAG prices               {'nns'}
+WORDSTOTAG pricing              {'vbg'}
+WORDSTOTAG primary              {'nn'}
+WORDSTOTAG principal            {'nn'}
+WORDSTOTAG priority             {'nn'}
+WORDSTOTAG prison               {'nn'}
+WORDSTOTAG privilege            {'nn'}
+WORDSTOTAG problem              {'nn'}
+WORDSTOTAG procedures           {'nns'}
+WORDSTOTAG produced             {'vbd'}
+WORDSTOTAG program              {'nn'}
+WORDSTOTAG promise              {'nn'}
+WORDSTOTAG promised             {'vbd'}
+WORDSTOTAG property             {'nn'}
+WORDSTOTAG proportionate        {'jj'}
+WORDSTOTAG proposed             {'vbn', 'vbn-hl'}
+WORDSTOTAG protect              {'vb'}
+WORDSTOTAG protected            {'vbn-hl'}
+WORDSTOTAG provide              {'vb'}
+WORDSTOTAG provided             {'vbn'}
+WORDSTOTAG public               {'jj'}
+WORDSTOTAG purchasing           {'vbg'}
+WORDSTOTAG purpose              {'nn'}
+WORDSTOTAG put                  {'vbd'}
+WORDSTOTAG quickie              {'nn'}
+WORDSTOTAG quiet                {'jj'}
+WORDSTOTAG race                 {'nn'}
+WORDSTOTAG raises               {'nns'}
+WORDSTOTAG rally                {'nn'}
+WORDSTOTAG re-set               {'vb'}
+WORDSTOTAG read                 {'vbn'}
+WORDSTOTAG ready                {'jj'}
+WORDSTOTAG real                 {'ql'}
+WORDSTOTAG realize              {'vb'}
+WORDSTOTAG reasonable           {'jj'}
+WORDSTOTAG receive              {'vb'}
+WORDSTOTAG received             {'vbn', 'vbd'}
+WORDSTOTAG receives             {'vbz'}
+WORDSTOTAG recent               {'jj'}
+WORDSTOTAG recommendations      {'nns'}
+WORDSTOTAG recommended          {'vbn', 'vbd'}
+WORDSTOTAG reconsideration      {'nn'}
+WORDSTOTAG reconstruction       {'nn'}
+WORDSTOTAG reduce               {'vb'}
+WORDSTOTAG reelection           {'nn'}
+WORDSTOTAG registered           {'vbn'}
+WORDSTOTAG registration         {'nn'}
+WORDSTOTAG rejected             {'vbd'}
+WORDSTOTAG relations            {'nns'}
+WORDSTOTAG relative             {'jj'}
+WORDSTOTAG remedy               {'vb'}
+WORDSTOTAG repair               {'nn'}
+WORDSTOTAG repealed             {'vbn'}
+WORDSTOTAG reportedly           {'rb'}
+WORDSTOTAG reports              {'nns'}
+WORDSTOTAG requesting           {'vbg'}
+WORDSTOTAG rescind              {'vb'}
+WORDSTOTAG research             {'nn'}
+WORDSTOTAG resignation          {'nn'}
+WORDSTOTAG resigned             {'vbd'}
+WORDSTOTAG resolution           {'nn'}
+WORDSTOTAG responses            {'nns'}
+WORDSTOTAG result               {'nn'}
+WORDSTOTAG revised              {'vbn'}
+WORDSTOTAG revolving            {'vbg-hl', 'vbg'}
+WORDSTOTAG road                 {'nn'}
+WORDSTOTAG roads                {'nns'}
+WORDSTOTAG run                  {'vb'}
+WORDSTOTAG rural                {'jj'}
+WORDSTOTAG said                 {'vbd'}
+WORDSTOTAG sales                {'nns'}
+WORDSTOTAG saw                  {'vbd'}
+WORDSTOTAG says                 {'vbz'}
+WORDSTOTAG scheduled            {'vbd'}
+WORDSTOTAG school               {'nn'}
+WORDSTOTAG see                  {'vb'}
+WORDSTOTAG seek                 {'vb'}
+WORDSTOTAG seen                 {'vbn'}
+WORDSTOTAG servants             {'nns'}
+WORDSTOTAG serve                {'vb'}
+WORDSTOTAG services             {'nns'}
+WORDSTOTAG session              {'nn'}
+WORDSTOTAG sessions             {'nns'}
+WORDSTOTAG set                  {'vb'}
+WORDSTOTAG settlement           {'nn'}
+WORDSTOTAG sheriff              {'nn'}
+WORDSTOTAG shortly              {'rb'}
+WORDSTOTAG shot                 {'vbd'}
+WORDSTOTAG should               {'md'}
+WORDSTOTAG sign                 {'vb'}
+WORDSTOTAG signatures           {'nns'}
+WORDSTOTAG similar              {'jj'}
+WORDSTOTAG since                {'in'}
+WORDSTOTAG size                 {'nn'}
+WORDSTOTAG smell                {'vb'}
+WORDSTOTAG smooth               {'jj'}
+WORDSTOTAG so                   {'ql', 'cs'}
+WORDSTOTAG some                 {'dti'}
+WORDSTOTAG something            {'pn'}
+WORDSTOTAG son                  {'nn'}
+WORDSTOTAG soon                 {'rb'}
+WORDSTOTAG sought               {'vbn'}
+WORDSTOTAG source               {'nn'}
+WORDSTOTAG speaker              {'nn'}
+WORDSTOTAG specifically         {'rb'}
+WORDSTOTAG starts               {'vbz'}
+WORDSTOTAG state                {'nn'}
+WORDSTOTAG steps                {'nns'}
+WORDSTOTAG stood                {'vbd'}
+WORDSTOTAG strong               {'jj'}
+WORDSTOTAG studied              {'vbn'}
+WORDSTOTAG study                {'nn'}
+WORDSTOTAG subjected            {'vbn'}
+WORDSTOTAG succeeded            {'vbn'}
+WORDSTOTAG such                 {'jj'}
+WORDSTOTAG suit                 {'nn'}
+WORDSTOTAG superintendent       {'nn'}
+WORDSTOTAG support              {'nn'}
+WORDSTOTAG surveillance         {'nn'}
+WORDSTOTAG swipe                {'nn'}
+WORDSTOTAG system               {'nn'}
+WORDSTOTAG take                 {'vb'}
+WORDSTOTAG taken                {'vbn'}
+WORDSTOTAG takes                {'vbz'}
+WORDSTOTAG tax                  {'nn'}
+WORDSTOTAG taxpayers            {'nns'}
+WORDSTOTAG teacher              {'nn'}
+WORDSTOTAG technical            {'jj'}
+WORDSTOTAG telephone            {'nn'}
+WORDSTOTAG term                 {'nn'}
+WORDSTOTAG term-end             {'nn'}
+WORDSTOTAG test                 {'nn', 'vb'}
+WORDSTOTAG than                 {'in'}
+WORDSTOTAG thanks               {'nns'}
+WORDSTOTAG that                 {'cs', 'wps'}
+WORDSTOTAG the                  {'at'}
+WORDSTOTAG them                 {'ppo'}
+WORDSTOTAG then                 {'rb'}
+WORDSTOTAG there                {'ex', 'rb'}
+WORDSTOTAG these                {'dts'}
+WORDSTOTAG they                 {'ppss'}
+WORDSTOTAG this                 {'dt'}
+WORDSTOTAG threats              {'nns'}
+WORDSTOTAG three                {'cd'}
+WORDSTOTAG through              {'in'}
+WORDSTOTAG time                 {'nn'}
+WORDSTOTAG title                {'nn'}
+WORDSTOTAG to                   {'in', 'to'}
+WORDSTOTAG together             {'rb'}
+WORDSTOTAG told                 {'vbd'}
+WORDSTOTAG too                  {'rb'}
+WORDSTOTAG took                 {'vbd'}
+WORDSTOTAG top                  {'jjs'}
+WORDSTOTAG topics               {'nns'}
+WORDSTOTAG tossed               {'vbd'}
+WORDSTOTAG toward               {'in'}
+WORDSTOTAG traditional          {'jj'}
+WORDSTOTAG traveled             {'vbn'}
+WORDSTOTAG trouble              {'nn'}
+WORDSTOTAG two                  {'cd'}
+WORDSTOTAG unanimous            {'jj'}
+WORDSTOTAG under                {'in'}
+WORDSTOTAG undue                {'jj'}
+WORDSTOTAG unit                 {'nn'}
+WORDSTOTAG unmeritorious        {'jj'}
+WORDSTOTAG up                   {'rp'}
+WORDSTOTAG upon                 {'rb'}
+WORDSTOTAG urban                {'jj'}
+WORDSTOTAG urged                {'vbd'}
+WORDSTOTAG validity             {'nn'}
+WORDSTOTAG veiled               {'vbn'}
+WORDSTOTAG very                 {'ql'}
+WORDSTOTAG veteran              {'jj'}
+WORDSTOTAG violence             {'nn'}
+WORDSTOTAG visit                {'nn'}
+WORDSTOTAG vote                 {'nn', 'vb'}
+WORDSTOTAG voted                {'vbd'}
+WORDSTOTAG voters               {'nns'}
+WORDSTOTAG votes                {'nns'}
+WORDSTOTAG voting               {'vbg'}
+WORDSTOTAG wait                 {'vb'}
+WORDSTOTAG wanted               {'vbd'}
+WORDSTOTAG wards                {'nns'}
+WORDSTOTAG warned               {'vbn'}
+WORDSTOTAG warning              {'vbg'}
+WORDSTOTAG was                  {'bedz'}
+WORDSTOTAG wasn't               {'bedz*'}
+WORDSTOTAG we                   {'ppss'}
+WORDSTOTAG weekend              {'nn'}
+WORDSTOTAG welfare              {'nn'}
+WORDSTOTAG well                 {'ql'}
+WORDSTOTAG went                 {'vbd'}
+WORDSTOTAG were                 {'bed'}
+WORDSTOTAG what                 {'wdt'}
+WORDSTOTAG when                 {'wrb'}
+WORDSTOTAG where                {'wrb'}
+WORDSTOTAG whether              {'cs'}
+WORDSTOTAG which                {'wdt'}
+WORDSTOTAG who                  {'wps'}
+WORDSTOTAG widespread           {'jj'}
+WORDSTOTAG wife                 {'nn'}
+WORDSTOTAG wife's               {'nn$'}
+WORDSTOTAG will                 {'md'}
+WORDSTOTAG wind                 {'vb'}
+WORDSTOTAG with                 {'in'}
+WORDSTOTAG won                  {'vbn'}
+WORDSTOTAG word                 {'nn'}
+WORDSTOTAG work                 {'nn', 'vb'}
+WORDSTOTAG worked               {'vbn'}
+WORDSTOTAG worth                {'nn'}
+WORDSTOTAG would                {'md'}
+WORDSTOTAG year                 {'nn'}
+WORDSTOTAG years                {'nns'}
+WORDSTOTAG yet                  {'rb'}
+TAGTOWORDS ''         {"''"}
+TAGTOWORDS (          {'('}
+TAGTOWORDS )          {')'}
+TAGTOWORDS *          {'not'}
+TAGTOWORDS ,          {','}
+TAGTOWORDS --         {'--'}
+TAGTOWORDS .          {'.'}
+TAGTOWORDS :          {':'}
+TAGTOWORDS ``         {'``'}
+TAGTOWORDS abn        {'all'}
+TAGTOWORDS abx        {'both'}
+TAGTOWORDS ap         {'last', 'former', 'other', 'many', 'next', 'Many', 'more'}
+TAGTOWORDS at         {'a', 'an', 'The', 'the', 'no', 'A', 'every'}
+TAGTOWORDS at-hl      {'A'}
+TAGTOWORDS at-tl      {'The'}
+TAGTOWORDS be         {'be'}
+TAGTOWORDS bed        {'were'}
+TAGTOWORDS bedz       {'was'}
+TAGTOWORDS bedz*      {"wasn't"}
+TAGTOWORDS beg        {'being', 'Being'}
+TAGTOWORDS ben        {'been'}
+TAGTOWORDS ber        {'are'}
+TAGTOWORDS bez        {'is'}
+TAGTOWORDS cc         {'but', 'But', 'and', 'or'}
+TAGTOWORDS cd         {'two', '1962', '2', 'million', '29-5', '1913', '1961', 'Four', '18', '637', '1958', '13', 'Five', '8', '1', '1,119', 'four', 'three', '87-31', '402', '71', 'one', '1937', '74', '1923'}
+TAGTOWORDS cs         {'whether', 'after', 'While', 'like', 'before', 'as', 'that', 'so'}
+TAGTOWORDS do         {'do'}
+TAGTOWORDS dod        {'did'}
+TAGTOWORDS dod*       {"didn't"}
+TAGTOWORDS doz        {'does'}
+TAGTOWORDS dt         {'each', 'This', 'this'}
+TAGTOWORDS dti        {'some', 'any'}
+TAGTOWORDS dts        {'These', 'these'}
+TAGTOWORDS ex         {'There', 'there'}
+TAGTOWORDS hv         {'have'}
+TAGTOWORDS hvd        {'had'}
+TAGTOWORDS hvz        {'has'}
+TAGTOWORDS in         {'considering', 'than', 'Despite', 'for', 'among', 'on', 'After', 'of', 'against', 'about', 'to', 'On', 'toward', 'into', 'under', 'by', 'through', 'Before', 'During', 'in', 'according', 'from', 'with', 'per', 'As', 'In', 'since', 'Regarding', 'at'}
+TAGTOWORDS in-tl      {'of'}
+TAGTOWORDS jj         {'ambiguous', 'possible', 'available', 'enthusiastic', 'clerical', 'outgoing', 'long', 'smooth', 'additional', 'friendly', 'good', 'multi-million-dollar', 'brief', 'local', 'veteran', 'traditional', 'technical', 'grand', 'effective', 'congressional', 'populous', 'unanimous', 'quiet', 'anonymous', 'federal', 'unmeritorious', 'such', 'outmoded', 'reasonable', 'fair', 'mental', 'public', 'rural', 'ready', 'fit', 'proportionate', 'alternative', 'similar', 'periodic', 'undue', 'disproportionate', 'major', 'previous', 'present', 'hot', 'widespread', 'foster', 'new', 'over-all', 'amicable', 'hard-fought', 'orderly', 'medical', 'recent', 'gubernatorial', 'inadequate', 'strong', 'old', 'constitutional', 'political', 'future', 'equitable', 'relative', 'urban', 'general'}
+TAGTOWORDS jj-tl      {'Rural', 'Grand', 'Executive', 'Superior', 'Blue', 'Democratic'}
+TAGTOWORDS jjr        {'greater'}
+TAGTOWORDS jjs        {'top'}
+TAGTOWORDS jjt        {'coolest', 'best', 'calmest', 'largest'}
+TAGTOWORDS md         {'should', 'may', 'would', 'must', 'might', 'can', 'will'}
+TAGTOWORDS nn         {'jail', 'expense', 'aid', 'burden', 'prison', 'program', 'superintendent', 'bit', 'place', 'city', 'drop', 'cost', 'purpose', 'term-end', 'highway', 'office', 'couple', 'effect', 'action', 'governor', 'event', 'privilege', 'hurdle', 'enthusiasm', 'duty', 'system', 'ballot', 'party', 'manner', 'word', 'gun', 'speaker', 'welfare', 'GOP', 'cruelty', 'extern', 'bond', 'director', 'child', 'violence', 'court', 'trouble', 'construction', 'age', 'efficiency', 'swipe', 'county', 'session', 'primary', 'legislation', 'permit', 'mayor', 'operation', 'number', 'issue', 'day', 'legislator', 'delegation', 'support', 'increase', 'coordinator', 'property', 'establishment', 'pension', 'automobile', 'item', 'test', 'investigation', 'church', 'divorce', 'midnight', 'problem', 'size', 'platform', 'sheriff', 'appointment', 'resignation', 'Failure', 'settlement', 'work', 'order', 'campaign', 'promise', 'plan', 'ordinary', 'registration', 'wife', 'agriculture', 'title', 'official', 'occupation', 'fact', 'visit', 'resolution', 'hopper', 'fund', 'board', 'crowd', 'education', 'career', 'candidate', 'school', 'law', 'fire', 'surveillance', 'money', 'son', 'Aj', 'chairman', 'adjournment', 'act', 'post', 'repair', 'night', 'interlude', 'result', 'awarding', 'petition', 'implementation', 'assistance', 'portion', 'meeting', 'issuance', 'handful', 'daughter', 'date', 'administration', 'policeman', 'year', 'pay', 'telephone', 'Implementation', 'priority', 'audience', 'compensation', 'race', 'liquor', 'department', 'past', 'reconstruction', 'amendment', 'state', 'evidence', 'quickie', 'pistol', 'assistant', 'doctor', 'exception', 'suit', 'term', 'man', 'charge', 'interim', 'attorney', 'interest', 'intern', 'weekend', 'management', 'election', 'jury', 'source', 'dispute', 'notice', 'unit', 'validity', 'road', 'praise', 'vote', 'rally', 'battle', 'phone', 'death', 'tax', 'principal', 'airport', 'time', 'handling', 'afternoon', 'end', 'teacher', 'controversy', 'council', 'worth', 'distribution', 'cent', 'study', 'committee', 'research', 'reelection', 'birth', 'future', 'encouragement', 'reconsideration'}
+TAGTOWORDS nn$        {"governor's", "court's", "body's", "wife's", "mayor's", "ordinary's"}
+TAGTOWORDS nn$-tl     {"Commissioner's", "Department's"}
+TAGTOWORDS nn-hl      {'jail', 'fund', 'Construction', 'Merger'}
+TAGTOWORDS nn-tl      {'Mayor', 'Rd.', 'Ordinary', 'Jury', 'Lt.', 'Authority', 'Judge', 'Tax', 'Mayor-nominate', 'Legislature', 'House', 'Committee', 'Chairman', 'Sen.', 'Ridge', 'Hospital', 'Health', 'Welfare', 'Gov.', 'Commerce', 'Policeman', 'Association', 'Senate', 'Department', 'Party', 'County', 'State', 'Sheriff', 'Office', 'Highway', 'Bar', 'Rep.', 'Board', 'City', 'Education', 'Court', 'Constitution', 'Jail'}
+TAGTOWORDS nns        {'$4', 'candidates', 'concessionaires', 'members', 'days', 'bonds', 'dissents', 'details', 'courses', '$30', '$50', 'policies', 'areas', 'employes', 'plans', 'servants', 'influences', 'costs', 'presentments', 'items', 'homes', 'counties', 'juries', 'deputies', 'contracts', 'procedures', 'jurors', 'years', 'sessions', 'chambers', 'fees', 'matters', 'sales', 'departments', 'ones', 'highways', 'relations', 'irregularities', 'citizens', 'actions', 'officials', 'offices', 'funds', 'calls', 'adjustments', '$10', 'authorities', 'topics', 'petitions', 'recommendations', 'threats', 'votes', '$3', '$100', 'governments', 'allowances', 'thanks', 'voters', 'administrators', 'prices', 'signatures', 'criticisms', 'appraisers', 'responses', 'reports', 'precincts', 'Attorneys', 'raises', 'personnel', 'courts', 'congressmen', 'names', 'steps', 'services', 'taxpayers', 'laws', 'wards', 'farms', 'guardians', 'legislators', 'practices', 'roads', 'polls'}
+TAGTOWORDS nns-hl     {'deputies', 'Wards', 'bonds'}
+TAGTOWORDS nns-tl     {'Police', 'Roads'}
+TAGTOWORDS np         {'Cheshire', 'William', 'Ala.', 'J.', 'James', 'Tower', 'Carey', 'P.', 'Felix', 'September-October', 'Pye', 'D.', 'Ivan', 'Tom', 'Ledford', 'Schley', 'Caldwell', 'Congress', 'Davis', 'Bush', 'Callan', 'Washington', 'Griffin', 'Allen', 'Savannah', 'Robert', 'B.', 'Hartsfield', 'Rob', 'Garland', 'M.', 'Atlanta', 'Bellwood', 'Jan.', 'Texas', 'Dorsey', 'Vandiver', 'Jr.', 'Durwood', 'Pelham', 'Sept.', 'L.', 'Barber', 'Opelika', 'Pearl', 'March', 'Alpharetta', 'Harry', 'Bowden', 'Marvin', 'Williams', 'Berry', 'Fulton', 'Henry', 'Mac', 'November', 'Aug.', 'Georgia', 'George', 'Tabb', 'John', 'Sam', 'E.', 'Snodgrass', 'Gainesville', 'Byrd', 'W.', 'Mrs.'}
+TAGTOWORDS np$        {"Caldwell's", "Byrd's", "Atlanta's", "Georgia's"}
+TAGTOWORDS np-hl      {'Colquitt'}
+TAGTOWORDS np-tl      {'Colquitt', 'Georgia', 'Jackson', 'Atlanta', 'Miller', 'Fulton', 'Grady'}
+TAGTOWORDS nps        {'Republicans'}
+TAGTOWORDS nr         {'home', 'Monday', 'Wednesday', 'Friday', 'Sunday', 'Tuesday'}
+TAGTOWORDS nr$        {"Saturday's"}
+TAGTOWORDS od         {'13th', 'first'}
+TAGTOWORDS pn         {'Everything', 'something', 'none'}
+TAGTOWORDS pp$        {'his', 'His', 'our', 'its'}
+TAGTOWORDS ppl        {'himself', 'itself'}
+TAGTOWORDS ppo        {'them', 'him', 'it'}
+TAGTOWORDS pps        {'it', 'he', 'It', 'He'}
+TAGTOWORDS ppss       {'I', 'They', 'we', 'they'}
+TAGTOWORDS ql         {'less', 'very', 'well', 'most', 'so', 'real'}
+TAGTOWORDS rb         {'newly', 'soon', 'Only', 'Meanwhile', 'Nevertheless', 'aside', 'outright', 'first', 'fully', 'consistently', 'specifically', 'there', 'ever', 'just', 'together', 'too', 'formally', 'often', 'shortly', 'apparently', 'generally', 'then', 'reportedly', 'yet', 'upon', 'also', 'near', 'likely', 'no', 'back', 'heavily'}
+TAGTOWORDS rbr        {'earlier', 'further'}
+TAGTOWORDS rp         {'up', 'off', 'out'}
+TAGTOWORDS to         {'to'}
+TAGTOWORDS vb         {'carry', 'rescind', 'endorse', 'determine', 'give', 'enter', 'allow', 'ask', 'place', 'test', 'disable', 'receive', 'investigate', 'begin', 'achieve', 'act', 'force', 'approve', 're-set', 'provide', 'distribute', 'make', 'wind', 'like', 'wait', 'pass', 'head', 'seek', 'sign', 'realize', 'become', 'remedy', 'smell', 'face', 'vote', 'work', 'offer', 'set', 'feel', 'inure', 'mention', 'elaborate', 'serve', 'reduce', 'insure', 'find', 'continue', 'eliminate', 'run', 'protect', 'obtain', 'hold', 'see', 'follow', 'permit', 'go', 'issue', 'take', 'back'}
+TAGTOWORDS vb-hl      {'Ask'}
+TAGTOWORDS vbd        {'commented', 'produced', 'made', 'got', 'announced', 'scheduled', 'urged', 'saw', 'charged', 'went', 'voted', 'took', 'found', 'filed', 'received', 'put', 'rejected', 'told', 'promised', 'feared', 'recommended', 'said', 'approved', 'added', 'became', 'tossed', 'stood', 'wanted', 'passed', 'opened', 'attended', 'praised', 'defeated', 'shot', 'listed', 'pointed', 'asked', 'resigned', 'brought'}
+TAGTOWORDS vbg        {'keeping', 'enabling', 'getting', 'revolving', 'entering', 'leading', 'requesting', 'warning', 'purchasing', 'asking', 'voting', 'emphasizing', 'making', 'operating', 'lacking', 'improving', 'picking', 'modernizing', 'pricing'}
+TAGTOWORDS vbg-hl     {'revolving'}
+TAGTOWORDS vbg-tl     {'Purchasing'}
+TAGTOWORDS vbn        {'elected', 'seen', 'appointed', 'directed', 'armed', 'made', 'read', 'veiled', 'succeeded', 'expected', 'marked', 'operated', 'charged', 'granted', 'held', 'sought', 'combined', 'conducted', 'married', 'employed', 'effected', 'proposed', 'received', 'issued', 'let', 'opposed', 'agreed', 'provided', 'offered', 'recommended', 'approved', 'done', 'passed', 'warned', 'traveled', 'subjected', 'paid', 'accepted', 'lived', 'learned', 'consulted', 'studied', 'featured', 'taken', 'repealed', 'increased', 'worked', 'incorporated', 'experienced', 'listed', 'expended', 'won', 'revised', 'asked', 'allotted', 'given', 'allowed', 'registered'}
+TAGTOWORDS vbn-hl     {'proposed', 'protected'}
+TAGTOWORDS vbz        {'intends', 'receives', 'deserves', 'believes', 'takes', 'expires', 'says', 'starts', 'opposes', 'goes'}
+TAGTOWORDS wdt        {'which', 'what'}
+TAGTOWORDS wps        {'who', 'that'}
+TAGTOWORDS wrb        {'When', 'however', 'However', 'when', 'where'}

@@ -1,0 +1,5 @@
+#!/Users/ethantecson/Documents/Computer Science/Programs for class/program 0 /bin/python3.10
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

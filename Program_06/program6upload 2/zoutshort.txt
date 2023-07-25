@@ -1,0 +1,173 @@
+Enter filename: Read from file  xshort.txt
+['The/at', 'Fulton/np-tl', 'County/nn-tl', 'Grand/jj-tl', 'Jury/nn-tl', 'said/vbd', 'Friday/nr', 'an/at', 'investigation/nn', 'of/in', "Atlanta's/np$", 'recent/jj', 'primary/nn', 'election/nn', 'produced/vbd', '``/``', 'no/at', 'evidence/nn', "''/''", 'that/cs', 'any/dti', 'irregularities/nns', 'took/vbd', 'place/nn', './.', 'The/at', 'jury/nn', 'further/rbr', 'said/vbd', 'in/in', 'term-end/nn', 'presentments/nns', 'that/cs', 'the/at', 'City/nn-tl', 'Executive/jj-tl', 'Committee/nn-tl', ',/,', 'which/wdt', 'had/hvd', 'over-all/jj', 'charge/nn', 'of/in', 'the/at', 'election/nn', ',/,', '``/``', 'deserves/vbz', 'the/at', 'praise/nn', 'and/cc', 'thanks/nns', 'of/in', 'the/at', 'City/nn-tl', 'of/in-tl', 'Atlanta/np-tl', "''/''", 'for/in', 'the/at', 'manner/nn', 'in/in', 'which/wdt', 'the/at', 'election/nn', 'was/bedz', 'conducted/vbn', './.']
+''/'' 2
+,/, 2
+./. 2
+Atlanta's/np$ 1
+Atlanta/np-tl 1
+City/nn-tl 2
+Committee/nn-tl 1
+County/nn-tl 1
+Executive/jj-tl 1
+Friday/nr 1
+Fulton/np-tl 1
+Grand/jj-tl 1
+Jury/nn-tl 1
+The/at 2
+``/`` 2
+an/at 1
+and/cc 1
+any/dti 1
+charge/nn 1
+conducted/vbn 1
+deserves/vbz 1
+election/nn 3
+evidence/nn 1
+for/in 1
+further/rbr 1
+had/hvd 1
+in/in 2
+investigation/nn 1
+irregularities/nns 1
+jury/nn 1
+manner/nn 1
+no/at 1
+of/in 3
+of/in-tl 1
+over-all/jj 1
+place/nn 1
+praise/nn 1
+presentments/nns 1
+primary/nn 1
+produced/vbd 1
+recent/jj 1
+said/vbd 2
+term-end/nn 1
+thanks/nns 1
+that/cs 2
+the/at 6
+took/vbd 1
+was/bedz 1
+which/wdt 2
+    1 Atlanta's/np$
+    1 Atlanta/np-tl
+    1 Committee/nn-tl
+    1 County/nn-tl
+    1 Executive/jj-tl
+    1 Friday/nr
+    1 Fulton/np-tl
+    1 Grand/jj-tl
+    1 Jury/nn-tl
+    1 an/at
+    1 and/cc
+    1 any/dti
+    1 charge/nn
+    1 conducted/vbn
+    1 deserves/vbz
+    1 evidence/nn
+    1 for/in
+    1 further/rbr
+    1 had/hvd
+    1 investigation/nn
+    1 irregularities/nns
+    1 jury/nn
+    1 manner/nn
+    1 no/at
+    1 of/in-tl
+    1 over-all/jj
+    1 place/nn
+    1 praise/nn
+    1 presentments/nns
+    1 primary/nn
+    1 produced/vbd
+    1 recent/jj
+    1 term-end/nn
+    1 thanks/nns
+    1 took/vbd
+    1 was/bedz
+    2 ''/''
+    2 ,/,
+    2 ./.
+    2 City/nn-tl
+    2 The/at
+    2 ``/``
+    2 in/in
+    2 said/vbd
+    2 that/cs
+    2 which/wdt
+    3 election/nn
+    3 of/in
+    6 the/at
+WORDSTOTAG ''                   {"''"}
+WORDSTOTAG ,                    {','}
+WORDSTOTAG .                    {'.'}
+WORDSTOTAG Atlanta              {'np-tl'}
+WORDSTOTAG Atlanta's            {'np$'}
+WORDSTOTAG City                 {'nn-tl'}
+WORDSTOTAG Committee            {'nn-tl'}
+WORDSTOTAG County               {'nn-tl'}
+WORDSTOTAG Executive            {'jj-tl'}
+WORDSTOTAG Friday               {'nr'}
+WORDSTOTAG Fulton               {'np-tl'}
+WORDSTOTAG Grand                {'jj-tl'}
+WORDSTOTAG Jury                 {'nn-tl'}
+WORDSTOTAG The                  {'at'}
+WORDSTOTAG ``                   {'``'}
+WORDSTOTAG an                   {'at'}
+WORDSTOTAG and                  {'cc'}
+WORDSTOTAG any                  {'dti'}
+WORDSTOTAG charge               {'nn'}
+WORDSTOTAG conducted            {'vbn'}
+WORDSTOTAG deserves             {'vbz'}
+WORDSTOTAG election             {'nn'}
+WORDSTOTAG evidence             {'nn'}
+WORDSTOTAG for                  {'in'}
+WORDSTOTAG further              {'rbr'}
+WORDSTOTAG had                  {'hvd'}
+WORDSTOTAG in                   {'in'}
+WORDSTOTAG investigation        {'nn'}
+WORDSTOTAG irregularities       {'nns'}
+WORDSTOTAG jury                 {'nn'}
+WORDSTOTAG manner               {'nn'}
+WORDSTOTAG no                   {'at'}
+WORDSTOTAG of                   {'in-tl', 'in'}
+WORDSTOTAG over-all             {'jj'}
+WORDSTOTAG place                {'nn'}
+WORDSTOTAG praise               {'nn'}
+WORDSTOTAG presentments         {'nns'}
+WORDSTOTAG primary              {'nn'}
+WORDSTOTAG produced             {'vbd'}
+WORDSTOTAG recent               {'jj'}
+WORDSTOTAG said                 {'vbd'}
+WORDSTOTAG term-end             {'nn'}
+WORDSTOTAG thanks               {'nns'}
+WORDSTOTAG that                 {'cs'}
+WORDSTOTAG the                  {'at'}
+WORDSTOTAG took                 {'vbd'}
+WORDSTOTAG was                  {'bedz'}
+WORDSTOTAG which                {'wdt'}
+TAGTOWORDS ''         {"''"}
+TAGTOWORDS ,          {','}
+TAGTOWORDS .          {'.'}
+TAGTOWORDS ``         {'``'}
+TAGTOWORDS at         {'an', 'The', 'the', 'no'}
+TAGTOWORDS bedz       {'was'}
+TAGTOWORDS cc         {'and'}
+TAGTOWORDS cs         {'that'}
+TAGTOWORDS dti        {'any'}
+TAGTOWORDS hvd        {'had'}
+TAGTOWORDS in         {'for', 'of', 'in'}
+TAGTOWORDS in-tl      {'of'}
+TAGTOWORDS jj         {'recent', 'over-all'}
+TAGTOWORDS jj-tl      {'Executive', 'Grand'}
+TAGTOWORDS nn         {'election', 'investigation', 'charge', 'jury', 'manner', 'evidence', 'term-end', 'praise', 'place', 'primary'}
+TAGTOWORDS nn-tl      {'City', 'Jury', 'Committee', 'County'}
+TAGTOWORDS nns        {'irregularities', 'presentments', 'thanks'}
+TAGTOWORDS np$        {"Atlanta's"}
+TAGTOWORDS np-tl      {'Fulton', 'Atlanta'}
+TAGTOWORDS nr         {'Friday'}
+TAGTOWORDS rbr        {'further'}
+TAGTOWORDS vbd        {'took', 'said', 'produced'}
+TAGTOWORDS vbn        {'conducted'}
+TAGTOWORDS vbz        {'deserves'}
+TAGTOWORDS wdt        {'which'}
